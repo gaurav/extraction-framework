@@ -72,12 +72,8 @@ extends PageNodeExtractor
 
     override def extract(pageNode : PageNode, subjectUri : String, pageContext : PageContext): Seq[Quad] =
     {
-        // Ignore files that are not in Main, *unless* they're
-        // File:s on the Commons.
-        if(pageNode.title.namespace != Namespace.Main && 
-            !(pageNode.title.namespace == Namespace.File && 
-            context.language.wikiCode == "commons")
-        ) return Seq.empty 
+        //Only extract abstracts for pages from the Main namespace
+        if(pageNode.title.namespace != Namespace.Main) return Seq.empty
 
         //Don't extract abstracts from redirect and disambiguation pages
         if(pageNode.isRedirect || pageNode.isDisambiguation) return Seq.empty
