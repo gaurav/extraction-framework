@@ -24,11 +24,11 @@ extends WikiPageExtractor
 
   override def extract(page: WikiPage, subjectUri: String, pageContext: PageContext) : Seq[Quad] =
   {
-    // Ignore files that are not in Main, *unless* they're
+    // Ignore files that are not in Main, unless they're
     // File:s on the Commons.
     if(page.title.namespace != Namespace.Main && 
         !(page.title.namespace == Namespace.File && 
-        context.language.wikiCode == "commons")
+        context.language == Language.Commons)
     ) return Seq.empty
 
     // TODO: use templates like {{lowercase}}, magic words like {{DISPLAYTITLE}}, 

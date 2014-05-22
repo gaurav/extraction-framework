@@ -25,11 +25,11 @@ extends PageNodeExtractor
 
   override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    // Ignore files that are not in Main, *unless* they're
+    // Ignore files that are not in Main, unless they're
     // File:s on the Commons.
     if(node.title.namespace != Namespace.Main && 
         !(node.title.namespace == Namespace.File && 
-        context.language.wikiCode == "commons")
+        context.language == Language.Commons)
     ) return Seq.empty 
     
     val list = PageLinksExtractor.collectInternalLinks(node)

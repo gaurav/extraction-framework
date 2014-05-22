@@ -25,11 +25,11 @@ class ContributorExtractor( context : {
 
   override def extract(node : WikiPage, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    // Ignore files that are not in Main, *unless* they're
+    // Ignore files that are not in Main, unless they're
     // File:s on the Commons.
     if(node.title.namespace != Namespace.Main && 
         !(node.title.namespace == Namespace.File && 
-        context.language.wikiCode == "commons")
+        context.language == Language.Commons)
     ) return Seq.empty
 
     if(node.contributorID <= 0) return Seq.empty
