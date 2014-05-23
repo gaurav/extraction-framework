@@ -20,12 +20,9 @@ class ArticleCategoriesExtractor( context : {
 
     override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
     {
-        // Ignore files that are not in Main, unless they're
-        // File:s on the Commons.
-        if(node.title.namespace != Namespace.Main && 
-            !(node.title.namespace == Namespace.File && 
-            context.language == Language.Commons)
-        ) return Seq.empty
+        // Categories only make sense in Namespace.Main and Namespace.File.
+        if(node.title.namespace != Namespace.Main && node.title.namespace != Namespace.File)
+          return Seq.empty
         
         val links = collectCategoryLinks(node).filter(isCategoryForArticle(_))
 

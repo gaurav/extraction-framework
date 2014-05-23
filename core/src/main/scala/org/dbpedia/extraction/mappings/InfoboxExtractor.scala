@@ -101,12 +101,9 @@ extends PageNodeExtractor
 
     override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
     {
-        // Ignore files that are not in Main, unless they're
-        // File:s on the Commons.
-        if(node.title.namespace != Namespace.Main && 
-            !(node.title.namespace == Namespace.File && 
-            context.language == Language.Commons)
-        ) return Seq.empty 
+        // External links makes sense for Main and File articles.
+        if(node.title.namespace != Namespace.Main && node.title.namespace != Namespace.File)
+          return Seq.empty 
         
         val quads = new ArrayBuffer[Quad]()
 
