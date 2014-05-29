@@ -36,7 +36,7 @@
 {{comment|en|An academic journal is a mostly peer-reviewed periodical in which scholarship relating to a particular academic discipline is published. Academic journals serve as forums for the introduction and presentation for scrutiny of new research, and the critique of existing research. Content typically takes the form of articles presenting original research, review articles, and book reviews.}}
 {{comment|el| Ένα ακαδημαϊκό περιοδικό είναι ως επί το πλείστον περιοδικό για κριτικές οι οποίες σχετίζονται με έναν συγκεκριμένο ακαδημαϊκό τομέα. Τα ακαδημαϊκά περιοδικά χρησιμεύουν ως φόρουμ για την εισαγωγή και παρουσίαση του ελέγχου των νέων ερευνών και της κριτικής της υπάρχουσας έρευνας. Το περιεχόμενο έχει συνήθως την μορφή άρθρων παρουσίασης νέας έρευνας, ανασκόπησης υπάρχων άρθρων και κριτικές βιβλίων. }}
 {{comment|de|Wissenschaftliche Fachzeitschriften sind regelmäßig verlegte Fachzeitschriften über Spezialthemen aus den verschiedensten wissenschaftlichen Disziplinen. Sie stellen neue Methoden, Techniken und aktuelle Trends aus den Wissenschaften dar.}}
-}}</text></revision></page><page><title>OntologyClass:Activity</title><ns>200</ns><id>2150</id><revision><id>34587</id><timestamp>2014-04-17T05:38:45Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:Activity</title><ns>200</ns><id>2150</id><revision><id>34973</id><timestamp>2014-05-27T08:26:56Z</timestamp><text>{{Class
 |labels=
   {{label|en|activity}}
   {{label|es|actividad}}
@@ -49,6 +49,7 @@
   {{label|it|attività}}
   {{label|zh|活動}}
 | owl:disjointWith = Person
+| owl:equivalentClass = d0:Activity
 }}</text></revision></page><page><title>OntologyClass:Actor</title><ns>200</ns><id>289</id><revision><id>34588</id><timestamp>2014-04-17T05:39:18Z</timestamp><text>{{Class
 | labels =
 {{label|en|actor}}
@@ -397,11 +398,11 @@
 | rdfs:label@nl = slagader
 | labels = {{label|it|arteria}}
 | rdfs:subClassOf = AnatomicalStructure
-}}</text></revision></page><page><title>OntologyClass:ArtificialSatellite</title><ns>200</ns><id>9370</id><revision><id>34915</id><timestamp>2014-05-21T19:07:14Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:ArtificialSatellite</title><ns>200</ns><id>9370</id><revision><id>34938</id><timestamp>2014-05-23T15:42:44Z</timestamp><text>{{Class
 | labels          = {{label|en|ArtificialSatellite}}
                   = {{label|el|τεχνητός δορυφόρος}}
 | comments        = {{comment|en|In the context of spaceflight, an artificial satellite is an artificial object which has been intentionally placed into orbit.}}
-                  = {{comment|el|Ένας τεχνητός δορυφόρος είναι ανθρώπινη κατασκευή και τοποθετείται σε τροχιά γύρω από ένα ουράνιο σώμα.}}
+                  = {{comment|el|Στο πλαίσιο των διαστημικών πτήσεων, ένας τεχνητός δορυφόρος είναι ένα τεχνητό αντικείμενο το οποίο εκ προθέσεως έχει τοποθετηθεί σε τροχιά.}}
 | rdfs:subClassOf = Satellite
 | owl:equivalentClass = http://www.ontotext.com/proton/protonext#ArtificialSatellite
 }}</text></revision></page><page><title>OntologyClass:Artist</title><ns>200</ns><id>303</id><revision><id>21422</id><timestamp>2012-12-29T20:24:28Z</timestamp><text>{{Class
@@ -1016,17 +1017,17 @@
 | rdfs:label@el = εταιρία λεωφορείων
 | rdfs:label@de = Busunternehmen
 | rdfs:subClassOf = Company
-}}</text></revision></page><page><title>OntologyClass:BusinessPerson</title><ns>200</ns><id>8197</id><revision><id>34916</id><timestamp>2014-05-21T19:46:33Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:BusinessPerson</title><ns>200</ns><id>8197</id><revision><id>34947</id><timestamp>2014-05-24T06:57:10Z</timestamp><text>{{Class
 | labels = 
 {{label|en|businessperson}}
 {{label|de|Unternehmer}}
 {{label|el|επιχειρηματίας}}
 {{label|it|imprenditore}}
 {{label|nl|ondernemer}}
-| rdfs:subClassOf = Person
-}}
 | comments =
-{{comment|el|Με τον όρο επιχειρηματίας νοείται κυρίως κάποιος που κατέχει μία ανώτερη θέση, όπως ένα στέλεχος.}}</text></revision></page><page><title>OntologyClass:Camera</title><ns>200</ns><id>6550</id><revision><id>32808</id><timestamp>2014-03-18T17:34:37Z</timestamp><text>{{Class
+{{comment|el|Με τον όρο επιχειρηματίας νοείται κυρίως κάποιος που κατέχει μία ανώτερη θέση, όπως ένα στέλεχος.}}
+| rdfs:subClassOf = Person
+}}</text></revision></page><page><title>OntologyClass:Camera</title><ns>200</ns><id>6550</id><revision><id>32808</id><timestamp>2014-03-18T17:34:37Z</timestamp><text>{{Class
 | labels =
   {{label|en|camera}}
 {{label|de|Kamera}}
@@ -1337,18 +1338,24 @@
 | rdfs:comment@en = District, borough, area or neighbourhood in a city or town
 | rdfs:subClassOf = Settlement
 | owl:equivalentClass = 
-}}</text></revision></page><page><title>OntologyClass:ClassicalMusicArtist</title><ns>200</ns><id>7994</id><revision><id>33004</id><timestamp>2014-03-27T16:51:37Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:ClassicalMusicArtist</title><ns>200</ns><id>7994</id><revision><id>34949</id><timestamp>2014-05-24T07:02:11Z</timestamp><text>{{Class
 | labels =
 {{label|en|classical music artist}}
 {{label|de|Künstler der klassischen Musik}}
+{{label|el|καλλιτέχνης κλασικής μουσικής}}
 {{label|nl|artiest klassieke muziek}}
+| comments =
+{{comment|el|Ο Λούντβιχ βαν Μπετόβεν,Γερμανός συνθέτης και πιανίστας,ήταν ένας σπουδαίος καλλιτέχνης της κλασικής μουσικής.}}
 | rdfs:subClassOf = MusicalArtist
-}}</text></revision></page><page><title>OntologyClass:ClassicalMusicComposition</title><ns>200</ns><id>8220</id><revision><id>34489</id><timestamp>2014-04-08T15:42:47Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:ClassicalMusicComposition</title><ns>200</ns><id>8220</id><revision><id>34950</id><timestamp>2014-05-24T07:04:55Z</timestamp><text>{{Class
 | labels =
 {{label|en|classical music composition}}
 {{label|de|Komposition klassischer Musik}}
+{{label|el|σύνθεση κλασικής μουσικής}}
 {{label|it|composizione di musica classica}}
 {{label|nl|compositie klassieke muziek}}
+| comments =
+{{comment|el|Η σύνθεση κλασικής μουσικής μπορεί να πραγματοποιηθεί και με τη βοήθεια ειδικών προγραμμάτων στον υπολογιστή που χρησιμοποιούν συγκεκριμένο αλγόριθμο.}}
 | rdfs:subClassOf = MusicalWork
 }}</text></revision></page><page><title>OntologyClass:Cleric</title><ns>200</ns><id>333</id><revision><id>24684</id><timestamp>2013-04-04T19:04:03Z</timestamp><text>{{Class
 | rdfs:label@en = cleric
@@ -1737,6 +1744,12 @@
 | rdfs:label@es = ciclista
 | rdfs:label@nl = wielrenner
 | rdfs:subClassOf = Athlete
+}}</text></revision></page><page><title>OntologyClass:D0:Activity</title><ns>200</ns><id>9394</id><revision><id>34974</id><timestamp>2014-05-27T08:31:45Z</timestamp><text>{{Class
+| labels =
+{{label|en|activity}}
+{{label|it|attività}}
+{{label|fr|activité}}
+{{comment|en|Any action or task, planned or executed by an agent intentionally causing and participating in it. E.g. swimming, shopping, communicating, etc.}}
 }}</text></revision></page><page><title>OntologyClass:Dam</title><ns>200</ns><id>8353</id><revision><id>34288</id><timestamp>2014-04-07T19:37:28Z</timestamp><text>{{Class
 | labels =
 {{label|en|dam}}
@@ -2433,17 +2446,16 @@
 {{label|fr|gnétophytes}}
 | rdfs:label@ja = グネツム綱
 | rdfs:subClassOf = Plant
-}}</text></revision></page><page><title>OntologyClass:GolfCourse</title><ns>200</ns><id>8361</id><revision><id>34917</id><timestamp>2014-05-21T20:13:13Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:GolfCourse</title><ns>200</ns><id>8361</id><revision><id>34948</id><timestamp>2014-05-24T07:00:15Z</timestamp><text>{{Class
 | labels =
 {{label|en|golf course}}
 {{label|de|Golfplatz}}
 {{label|el|γήπεδο γκολφ}}
 {{label|it|campo da golf}}
 {{label|nl|golfbaan}}
-| rdfs:subClassOf = SportFacility
-}}
 | comments =
-{{comment|el|Σε ένα γήπεδο γκολφ οι τρύπες συχνά κρύβουν κινδύνους, που ορίζονται ως ειδικές περιοχές για τις οποίες ισχύουν επιπρόσθετοι κανόνες διεξαγωγής του παιχνιδιού.}}</text></revision></page><page><title>OntologyClass:GolfLeague</title><ns>200</ns><id>2171</id><revision><id>34510</id><timestamp>2014-04-08T15:45:09Z</timestamp><text>{{Class
+{{comment|el|Σε ένα γήπεδο γκολφ οι τρύπες συχνά κρύβουν κινδύνους, που ορίζονται ως ειδικές περιοχές για τις οποίες ισχύουν επιπρόσθετοι κανόνες διεξαγωγής του παιχνιδιού.}}
+| rdfs:subClassOf = SportFacility}}</text></revision></page><page><title>OntologyClass:GolfLeague</title><ns>200</ns><id>2171</id><revision><id>34510</id><timestamp>2014-04-08T15:45:09Z</timestamp><text>{{Class
 |labels=
 {{label|en|golf league}}
 {{label|de|Golfliga}}
@@ -2721,15 +2733,14 @@
 {{label|ja|病院}}
 | rdfs:subClassOf = Building
 | owl:equivalentClass = schema:Hospital
-}}</text></revision></page><page><title>OntologyClass:Host</title><ns>200</ns><id>7536</id><revision><id>34919</id><timestamp>2014-05-21T20:24:34Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:Host</title><ns>200</ns><id>7536</id><revision><id>34946</id><timestamp>2014-05-24T06:43:36Z</timestamp><text>{{Class
 | labels =
 {{label|en|host}}
 {{label|de|Gastgeber}}
 {{label|el|οικοδεσπότης}}
-| rdfs:subClassOf = TelevisionPersonality
-}}
 | comments =
-{{comment|el|Ο οικοδεσπότης χρησιμοποιείται συνήθως για να περιγράψει άνδρα παρουσιαστή γεγονότος.}}</text></revision></page><page><title>OntologyClass:HotSpring</title><ns>200</ns><id>6657</id><revision><id>34286</id><timestamp>2014-04-07T19:26:51Z</timestamp><text>{{Class
+{{comment|el|Ο οικοδεσπότης χρησιμοποιείται συνήθως για να περιγράψει άνδρα παρουσιαστή γεγονότος.}}
+| rdfs:subClassOf = TelevisionPersonality}}</text></revision></page><page><title>OntologyClass:HotSpring</title><ns>200</ns><id>6657</id><revision><id>34286</id><timestamp>2014-04-07T19:26:51Z</timestamp><text>{{Class
 | rdfs:label@en = hot spring
 | rdfs:label@de = heiße Quelle
 | rdfs:label@ja = 温泉
@@ -4359,13 +4370,15 @@
 {{label|el|πίστα αγώνων}}
 {{label|fr|circuit de course}}
 | rdfs:subClassOf = SportFacility
-}}</text></revision></page><page><title>OntologyClass:Racecourse</title><ns>200</ns><id>7349</id><revision><id>33119</id><timestamp>2014-03-28T15:16:21Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:Racecourse</title><ns>200</ns><id>7349</id><revision><id>34951</id><timestamp>2014-05-24T07:07:34Z</timestamp><text>{{Class
 | labels =
 {{label|en|racecourse}}
 {{label|de|Rennbahn}}
+{{label|el|ιππόδρομος}}
 {{label|it|ippodromo}}
 | comments =
 {{comment|en|A racecourse is an alternate term for a horse racing track, found in countries such as the United Kingdom, Australia, Hong Kong, and the United Arab Emirates.}}
+{{comment|el|Ο ιππόδρομος,εναλλακτικός όρος για την πίστα διεξαγωγής αγώνων μεταξύ ίππων,συναντάται σε χώρες όπως η Αγγλία, Αυστραλία, Χονγκ Κονγκ και τα Ηνωμένα Αραβικά Εμιράτα.}}
 | rdfs:subClassOf = RaceTrack
 }}</text></revision></page><page><title>OntologyClass:RacingDriver</title><ns>200</ns><id>6107</id><revision><id>33120</id><timestamp>2014-03-28T15:16:25Z</timestamp><text>{{Class
 | labels = {{label|en|racing driver}}
@@ -4568,7 +4581,7 @@
 | rdfs:label@ja = 道路
 | rdfs:label@nl = weg
 | rdfs:subClassOf = RouteOfTransportation
-}}</text></revision></page><page><title>OntologyClass:RoadJunction</title><ns>200</ns><id>3380</id><revision><id>20336</id><timestamp>2012-12-19T12:17:46Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:RoadJunction</title><ns>200</ns><id>3380</id><revision><id>34940</id><timestamp>2014-05-23T23:20:14Z</timestamp><text>{{Class
 | rdfs:label@en = road junction
 | rdfs:label@de = Straßenkreuzung
 | rdfs:label@nl = wegkruising
@@ -4675,11 +4688,11 @@
 {{label|nl| samba school}}
 {{label|pt | escola de samba}}
 | rdfs:subClassOf = Organisation
-}}</text></revision></page><page><title>OntologyClass:Satellite</title><ns>200</ns><id>9369</id><revision><id>34908</id><timestamp>2014-05-20T21:35:34Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:Satellite</title><ns>200</ns><id>9369</id><revision><id>34937</id><timestamp>2014-05-23T15:36:56Z</timestamp><text>{{Class
 | labels          = {{label|en|Satellite}}
                   = {{label|el|δορυφόρος}}
 | comments        = {{comment|en|An astronomic object orbiting around a planet or star. Definition partly derived from http://www.ontotext.com/proton/protonext# (and thus WordNet 1.7).}}
-                  = {{comment|el|Κάθε σώμα το οποίο εκτελεί περιφορά και διαγράφει κλειστή καμπύλη γύρω από ουράνιο σώμα λόγω της ελκτικής δύναμης που ασκείται πάνω του λέγεται δορυφόρος του ουράνιου σώματος}}.
+                  = {{comment|el|Ένα αστρονομικό αντικείμενο που βρίσκεται σε τροχιά γύρω από έναν πλανήτη ή αστέρι.}}
 | owl:equivalentClass = http://www.ontotext.com/proton/protonext#Satellite
 }}</text></revision></page><page><title>OntologyClass:School</title><ns>200</ns><id>636</id><revision><id>27231</id><timestamp>2013-07-09T13:12:32Z</timestamp><text>{{Class
 | rdfs:label@en = school
@@ -4706,11 +4719,14 @@
 {{label|bn|বিজ্ঞানী}}
 {{label|ja|科学者}}
 | rdfs:subClassOf = Person
-}}</text></revision></page><page><title>OntologyClass:ScreenWriter</title><ns>200</ns><id>8344</id><revision><id>33150</id><timestamp>2014-03-28T15:48:15Z</timestamp><text>{{Class
+}}</text></revision></page><page><title>OntologyClass:ScreenWriter</title><ns>200</ns><id>8344</id><revision><id>34952</id><timestamp>2014-05-24T07:17:41Z</timestamp><text>{{Class
 | labels =
 {{label|en|screenwriter}}
 {{label|de|Drehbuchautor}}
+{{label|el|σεναριογράφος}}
 {{label|it|sceneggiatore}}
+| comments =
+{{comment|el|Ο σεναριογράφος όχι μόνο γράφει την υπόθεση μιας σειράς άλλα είναι αυτός που επινοεί και τους πρωταγωνιστές του έργου.}}
 | rdfs:subClassOf = Writer
 }}</text></revision></page><page><title>OntologyClass:Sculptor</title><ns>200</ns><id>6462</id><revision><id>33240</id><timestamp>2014-03-30T21:37:50Z</timestamp><text>{{Class
 | rdfs:label@en = sculptor
@@ -8738,10 +8754,13 @@
 | rdfs:label@en = coaching record
 | rdfs:domain = CollegeCoach
 | rdfs:range = xsd:string
-}}</text></revision></page><page><title>OntologyProperty:Coalition</title><ns>202</ns><id>7814</id><revision><id>33507</id><timestamp>2014-04-03T14:44:51Z</timestamp><text>{{DatatypeProperty
+}}</text></revision></page><page><title>OntologyProperty:Coalition</title><ns>202</ns><id>7814</id><revision><id>34953</id><timestamp>2014-05-24T07:23:57Z</timestamp><text>{{DatatypeProperty
 | labels =
 {{label|en|coalition}}
 {{label|de|Koalition}}
+{{label|el|συνασπισμός}}
+| comments =
+{{comment|el|Παλαιότερα ο συνασπισμός χρησιμοποιούνταν ως στρατιωτικός όρος που υποδήλωνε την όμορη παράταξη πολεμιστών κατά την οποία ο κάθε στρατιώτης προφύλασσε τον διπλανό του με την ασπίδα του.}}
 | rdfs:domain = Person
 | rdfs:range = xsd:string
 }}</text></revision></page><page><title>OntologyProperty:CoastLength</title><ns>202</ns><id>7050</id><revision><id>33508</id><timestamp>2014-04-03T14:44:55Z</timestamp><text>{{DatatypeProperty
@@ -18977,13 +18996,15 @@ See also [[OntologyProperty:CurrentlyUsedFor]]</text></revision></page><page><ti
 {{label|pt|secretario}}
 | rdfs:domain = Organisation
 | rdfs:range = Person
-}}</text></revision></page><page><title>OntologyProperty:Security</title><ns>202</ns><id>6428</id><revision><id>23471</id><timestamp>2013-01-22T13:14:08Z</timestamp><text>{{DatatypeProperty
+}}</text></revision></page><page><title>OntologyProperty:Security</title><ns>202</ns><id>6428</id><revision><id>34954</id><timestamp>2014-05-24T07:26:48Z</timestamp><text>{{DatatypeProperty
 | labels =
 {{label|en|security}}
-{{label|de|SIcherheit}}
-| comments               =
-{{comment|en|Safety precautions that are used in the building}}
-{{comment|de|Sicherheitsmaßnahmen, die für das Gebäude getroffen wurden}}
+{{label|de|Sicherheit}}
+{{label|el|ασφάλεια}}
+| comments =
+{{comment|en|Safety precautions that are used in the building.}}
+{{comment|de|Sicherheitsmaßnahmen, die für das Gebäude getroffen wurden.}}
+{{comment|el|Μέτρα ασφαλείας για την προστασία ενός κτιρίου.}}
 | rdfs:domain = Building
 | rdfs:range = xsd:string
 }}</text></revision></page><page><title>OntologyProperty:Seiyu</title><ns>202</ns><id>7772</id><revision><id>27063</id><timestamp>2013-07-05T08:03:43Z</timestamp><text>{{ObjectProperty
