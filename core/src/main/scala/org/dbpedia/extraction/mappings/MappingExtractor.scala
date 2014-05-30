@@ -13,6 +13,7 @@ class MappingExtractor(
   context : {
     def mappings : Mappings
     def redirects : Redirects
+    def language : Language
   }
 )
 extends PageNodeExtractor
@@ -26,7 +27,9 @@ extends PageNodeExtractor
 
   override def extract(page : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    if(page.title.namespace != Namespace.Main) return Seq.empty
+    // Extract data from templates in the Main and File namespaces.
+    if(page.title.namespace != Namespace.Main && page.title.namespace != Namespace.File)
+      return Seq.empty 
 
     extractNode(page, subjectUri, pageContext)
   }

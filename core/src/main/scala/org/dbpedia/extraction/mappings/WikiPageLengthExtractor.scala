@@ -25,8 +25,10 @@ extends WikiPageExtractor
 
   override def extract(page : WikiPage, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    if(page.title.namespace != Namespace.Main) return Seq.empty
-    
+    // Page length makes sense for pages in Main and File namespaces.
+    if(page.title.namespace != Namespace.Main && page.title.namespace != Namespace.File)
+      return Seq.empty
+
     Seq(new Quad(context.language, DBpediaDatasets.PageLength, subjectUri, wikiPageLengthProperty, page.source.length.toString, page.sourceUri, nonNegativeInteger) )
   }
 }

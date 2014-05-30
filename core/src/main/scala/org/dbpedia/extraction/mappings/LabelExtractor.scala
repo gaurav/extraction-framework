@@ -24,7 +24,9 @@ extends WikiPageExtractor
 
   override def extract(page: WikiPage, subjectUri: String, pageContext: PageContext) : Seq[Quad] =
   {
-    if(page.title.namespace != Namespace.Main) return Seq.empty
+    // Only relevant to articles in Main and File namespaces.
+    if(page.title.namespace != Namespace.Main && page.title.namespace != Namespace.File)
+      return Seq.empty
 
     // TODO: use templates like {{lowercase}}, magic words like {{DISPLAYTITLE}}, 
     // remove stuff like "(1999 film)" from title...

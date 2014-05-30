@@ -25,7 +25,8 @@ extends PageNodeExtractor
 
   override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    if(node.title.namespace != Namespace.Main) return Seq.empty
+    if(node.title.namespace != Namespace.Main)
+      return Seq.empty 
     
     val list = PageLinksExtractor.collectInternalLinks(node)
     

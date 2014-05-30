@@ -25,7 +25,9 @@ extends PageNodeExtractor
 
   override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    if(node.title.namespace != Namespace.Main) return Seq.empty
+    // External links makes sense for Main and File namespace pages.
+    if(node.title.namespace != Namespace.Main && node.title.namespace != Namespace.File)
+      return Seq.empty 
 
     var quads = new ArrayBuffer[Quad]()
     for(link <- collectExternalLinks(node);

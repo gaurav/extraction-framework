@@ -29,7 +29,8 @@ extends PageNodeExtractor
 
   override def extract(page : PageNode, subjectUri : String, pageContext : PageContext): Seq[Quad] =
   {
-    if(page.title.namespace != Namespace.Main) return Seq.empty
+    if(page.title.namespace != Namespace.Main)
+      return Seq.empty
     
     val quads = new ArrayBuffer[Quad]()
 

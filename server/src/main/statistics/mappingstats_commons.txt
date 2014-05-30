@@ -5104,7 +5104,200 @@ r|Template:PD-NL-verkeersbord|Template:PD-NL-verkeersbord/en
 r|Template:Göteborg|Template:Gothenburg
 r|Template:PD-PTBR|Template:PD-old
 
-templates|59
+templates|458
+
+template|Template:OrgSynth
+count|3
+properties|19
+p|author|2
+p|curly|0
+p|url|0
+p|quotes|0
+p|journal|0
+p|prep|2
+p|pages|0
+p|authorlink|0
+p|collvolpages|2
+p|year|2
+p|last|0
+p|coauthors|0
+p|date|0
+p|first|0
+p|title|2
+p|doi|0
+p|collvol|2
+p|volume|0
+p|issn|0
+
+template|Template:Oldpuffull-en
+count|2
+properties|3
+p|date|2
+p|result|2
+p|page|2
+
+template|Template:Russian spoken article
+count|169
+properties|10
+p|link_to_recorded_version|166
+p|accent|166
+p|user_name_link|168
+p|sex|168
+p|next_part|32
+p|date|167
+p|full_link|1
+p|title|168
+p|user_name|1
+p|first_part|27
+
+template|Template:Gesprochener Artikel
+count|379
+properties|32
+p|dateiname10|0
+p|sprecher|362
+p|sprecher4|2
+p|inhalt|0
+p|artikeldatum|365
+p|oldid|336
+p|dateiname3|0
+p|sprecher2|6
+p|sortierung|14
+p|sprecher1|6
+p|sprecher7|0
+p|dateiname9|0
+p|geschlecht|362
+p|dauer|369
+p|dateiname4|0
+p|artikel|7
+p|sprecher3|2
+p|naechster_teil|9
+p|erster_teil|10
+p|dateiname1|0
+p|sprecher9|0
+p|exzellent|4
+p|sprecher6|0
+p|dateiname5|0
+p|dateiname7|0
+p|dateiname2|0
+p|dialekt|349
+p|dateiname6|0
+p|dateiname8|0
+p|sprecher5|0
+p|sprecher8|0
+p|titel|362
+
+template|Template:Moved from Japanese Wikipedia/FileHistory
+count|5
+properties|28
+p|demensions1|5
+p|user1|5
+p|demensions5|0
+p|demensions8|0
+p|user9|0
+p|demensions9|0
+p|comment6|0
+p|user5|0
+p|comment3|0
+p|timezone|5
+p|user8|0
+p|comment7|0
+p|user4|0
+p|comment4|0
+p|demensions6|0
+p|comment9|0
+p|demensions2|0
+p|user2|0
+p|user7|0
+p|comment1|2
+p|demensions7|0
+p|comment5|0
+p|comment8|0
+p|demensions4|0
+p|demensions3|0
+p|user3|0
+p|user6|0
+p|comment2|0
+
+template|Template:En-Spoken article entry
+count|1
+properties|6
+p|accent|1
+p|user_name_link|1
+p|sex|1
+p|date|1
+p|time|1
+p|title|1
+
+template|Template:Geluid van Nederland layout
+count|1837
+properties|8
+p|release_day|1837
+p|permalink_url|1837
+p|release_month|1837
+p|username|1837
+p|description|1810
+p|release_year|1837
+p|license|1837
+p|id|1837
+
+template|Template:The Dedication of Germanic Museum of Harvard University
+count|8
+properties|3
+p|prev|7
+p|next|7
+p|curr|8
+
+template|Template:Scans from 'Gnome Monosoupape aircraft engine manual', 1917
+count|7
+properties|5
+p|description|1
+p|page|0
+p|other version|0
+p|title|6
+p|figure|3
+
+template|Template:Information Art of Life
+count|47
+properties|26
+p|copyright|0
+p|Subjects|38
+p|author|1
+p|source|1
+p|inscriptions|0
+p|Title|37
+p|subjects|0
+p|permission|0
+p|description|0
+p|Dates|18
+p|Description|30
+p|agents|0
+p|Permission|1
+p|Agents|7
+p|Copyright|4
+p|other_fields_1|0
+p|dates|0
+p|date|1
+p|Source|43
+p|Author|4
+p|Date|19
+p|title|0
+p|type|0
+p|other_versions|1
+p|Inscriptions|7
+p|Type|44
+
+template|Template:PD-USGov-NASA-AP
+count|777
+properties|3
+p|frame|777
+p|mission|777
+p|roll|777
+
+template|Template:NLS Digital Library
+count|2
+properties|2
+p|category|0
+p|COBISS|1
 
 template|Template:Interface-kk
 count|1
@@ -5113,42 +5306,75 @@ p|name|1
 p|template|1
 p|calend|0
 
+template|Template:Building in image
+count|1
+properties|3
+p|type|1
+p|gallery|0
+p|name|1
+
+template|Template:BArch-License
+count|440
+properties|4
+p|category|0
+p|signature|427
+p|author|167
+p|PD|87
+
+template|Template:Bilderwerkstatt
+count|3700
+properties|4
+p|orig-lang|292
+p|changes|2702
+p|editor|3266
+p|orig|1900
+
+template|Template:Fundraising 2009 button
+count|771
+properties|6
+p|text|771
+p|color|73
+p|creator|0
+p|lang|771
+p|type|771
+p|translators|0
+
 template|Template:VN
 count|54608
 properties|292
 p|hy|64
 p|en-us|5
 p|pcd|60
-p|se|115
-p|ku|72
+p|se|116
+p|ku|74
 p|crh|4
 p|ss|8
 p|st|17
 p|bs|70
-p|vls|33
+p|vls|34
 p|cho|1
-p|stq|36
+p|stq|37
 p|arn|6
 p|kaa|5
 p|sei|1
 p|ba|62
-p|als|17
-p|lb|76
-p|hr|370
-p|ta|134
-p|ka|324
-p|ar|687
+p|als|18
+p|lb|77
+p|hr|371
+p|ta|135
+p|ka|326
+p|ar|691
 p|pi|0
 p|nov|2
 p|ty|5
-p|fr|5815
-p|is|303
+p|fr|5819
+p|is|305
 p|ho|0
 p|nah|55
 p|ng|0
 p|ug|17
-p|lv|282
-p|eu|236
+p|lv|284
+p|eu|238
 p|mdf|27
 p|got|3
 p|kl|6
@@ -5162,11 +5388,11 @@ p|bn|66
 p|rw|12
 p|av|10
 p|uz|6
-p|csb|105
-p|mzn|3
+p|csb|107
+p|mzn|4
 p|explain|0
 p|useWikidata|2
-p|uk|875
+p|uk|878
 p|tp|0
 p|co|75
 p|fj|6
@@ -5174,8 +5400,8 @@ p|rmy|0
 p|kr|0
 p|szl|12
 p|si|12
-p|li|56
-p|dsb|49
+p|li|58
+p|dsb|50
 p|ky|7
 p|ksh|5
 p|pa|27
@@ -5183,19 +5409,19 @@ p|mus|1
 p|ga|54
 p|gan|3
 p|ceb|6
-p|br|269
-p|lmo|9
+p|br|270
+p|lmo|10
 p|tt|16
 p|war|6
 p|so|7
-p|pt|1588
+p|pt|1591
 p|tpi|0
-p|cs|1874
+p|cs|1877
 p|roa-tara|2
 p|kv|55
 p|zu|26
 p|lo|2
-p|gl|297
+p|gl|298
 p|gn|30
 p|ny|2
 p|cu|3
@@ -5203,17 +5429,17 @@ p|roa-rup|2
 p|fiu-vro|9
 p|nds|28
 p|om|1
-p|sr|314
+p|sr|317
 p|ts|5
 p|el|182
-p|it|1845
+p|it|1848
 p|map-bms|2
 p|sc|46
 p|dk|3
 p|su|31
-p|ca|1075
-p|os|37
-p|vi|360
+p|ca|1079
+p|os|38
+p|vi|362
 p|srn|0
 p|la|107
 p|ab|5
@@ -5224,28 +5450,28 @@ p|yo|6
 p|dv|18
 p|pdc|17
 p|tl|52
-p|nl|3287
+p|nl|3290
 p|tum|3
-p|bg|767
-p|gv|52
+p|bg|770
+p|gv|53
 p|bi|1
 p|bxr|8
 p|nap|9
-p|glk|1
-p|ko|708
+p|glk|2
+p|ko|710
 p|rm|9
 p|or|4
-p|eo|916
+p|eo|918
 p|tk|8
-p|mk|351
+p|mk|353
 p|cdo|3
 p|dz|0
 p|oc|56
 p|haw|8
-p|et|788
+p|et|791
 p|nrm|17
 p|af|279
-p|de|7464
+p|de|7470
 p|bm|5
 p|xh|11
 p|cbk-zam|0
@@ -5255,8 +5481,8 @@ p|scn|31
 p|ch|1
 p|yi|29
 p|ha|14
-p|cy|200
-p|myv|32
+p|cy|202
+p|myv|33
 p|nb|6
 p|ki|1
 p|chy|12
@@ -5264,21 +5490,21 @@ p|sn|10
 p|to|77
 p|pap|0
 p|ig|4
-p|frr|57
+p|frr|58
 p|diq|10
 p|iu|8
-p|cv|49
+p|cv|50
 p|ur|45
 p|edit|0
 p|pam|11
 p|arc|6
 p|nan|4
-p|fy|157
+p|fy|158
 p|ln|14
 p|jv|42
-p|bat-smg|59
+p|bat-smg|60
 p|jbo|4
-p|ru|2532
+p|ru|2535
 p|ht|43
 p|1|0
 p|kw|7
@@ -5292,16 +5518,16 @@ p|sq|87
 p|ia|13
 p|arz|15
 p|pag|0
-p|sv|3210
+p|sv|3213
 p|udm|85
-p|tr|965
-p|da|1550
+p|tr|968
+p|da|1553
 p|my|29
 p|zh-tw|4
 p|sg|1
 p|chr|20
 p|wo|5
-p|nds-nl|65
+p|nds-nl|66
 p|lg|1
 p|mh|0
 p|bug|0
@@ -5311,21 +5537,21 @@ p|simple|0
 p|kj|0
 p|pih|0
 p|sm|4
-p|en|8722
+p|en|8733
 p|gu|25
 p|tn|8
-p|he|699
+p|he|701
 p|bh|1
 p|sciname|3
 p|zh-yue|39
-p|sah|92
+p|sah|93
 p|mo|3
 p|tet|0
 p|new|3
 p|ilo|6
 p|kn|23
 p|gd|56
-p|sk|509
+p|sk|512
 p|fur|15
 p|mrj|64
 p|bar|31
@@ -5333,11 +5559,11 @@ p|lbe|15
 p|na|2
 p|lad|4
 p|frp|14
-p|az|495
-p|wa|144
+p|az|498
+p|wa|145
 p|lij|4
 p|2|0
-p|es|3333
+p|es|3337
 p|ak|0
 p|fo|78
 p|hi|75
@@ -5346,18 +5572,18 @@ p|tw|0
 p|bcl|1
 p|te|103
 p|zh-hans|143
-p|mr|66
+p|mr|67
 p|bpy|3
 p|ie|0
 p|ext|2
-p|an|29
+p|an|30
 p|sco|22
-p|nn|370
+p|nn|371
 p|io|167
 p|sw|66
 p|zh-classical|5
-p|be-x-old|68
-p|be|234
+p|be-x-old|69
+p|be|237
 p|qu|160
 p|W|0
 p|hz|1
@@ -5366,31 +5592,31 @@ p|pt-br|3
 p|ang|22
 p|mi|62
 p|kab|1
-p|hsb|935
-p|ja|3396
+p|hsb|937
+p|ja|3403
 p|mrc|1
 p|aa|1
 p|sa|10
-p|ast|31
+p|ast|32
 p|za|4
-p|fi|2765
+p|fi|2769
 p|bo|33
-p|ro|369
+p|ro|373
 p|eml|10
 p|kg|1
 p|ne|19
 p|ee|6
 p|mhr|29
 p|ff|2
-p|lt|2352
-p|no|1272
+p|lt|2355
+p|no|1275
 p|wuu|3
-p|vec|50
+p|vec|51
 p|koi|69
 p|km|2
-p|kk|124
-p|sl|848
-p|pms|15
+p|kk|125
+p|sl|851
+p|pms|16
 p|ik|14
 p|ay|17
 p|nocat|0
@@ -5398,16 +5624,198 @@ p|ti|3
 p|ii|0
 p|hak|14
 p|zh-min-nan|69
-p|fa|315
+p|fa|317
 p|mn|77
 p|pnt|0
-p|zh|1808
+p|zh|1812
 p|ms|211
-p|hu|1539
+p|hu|1542
 p|nv|140
-p|pl|4014
+p|pl|4017
 p|ks|4
-p|sh|105
+p|sh|106
+
+template|Template:ISS Crew Earth Observations
+count|2
+properties|24
+p|mission|1
+p|orbitnumber|1
+p|features|1
+p|camera|1
+p|nadirlat|1
+p|sunelevation|1
+p|exposure|0
+p|issalt|1
+p|frame|1
+p|nadirdirection|1
+p|roll|1
+p|date|1
+p|caption|0
+p|nadirlong|1
+p|cp-long|1
+p|camera-tilt|1
+p|time|1
+p|film|1
+p|cp-lat|1
+p|camera-fl|1
+p|nocat|0
+p|cloudcover|1
+p|azimuth|1
+p|geoname|1
+
+template|Template:Harvard Address on Civil Service Reform
+count|5
+properties|3
+p|prev|4
+p|next|4
+p|curr|5
+
+template|Template:Removal of the Ponca Indians
+count|18
+properties|3
+p|prev|17
+p|next|17
+p|curr|18
+
+template|Template:Kulturdenkmal
+count|5789
+properties|3
+p|Ort|1341
+p|Nummer|1212
+p|Typ|877
+
+template|Template:Scans from 'The Wonders of Mechanical Ingenuity', 1911
+count|15
+properties|9
+p|description|1
+p|page|2
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|title|0
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:Cepolina
+count|9
+properties|3
+p|date|0
+p|source|8
+p|description|8
+
+template|Template:Information
+count|18882952
+properties|24
+p|author|7165770
+p|Other versions|2197
+p|demo|0
+p|Other_fields|505
+p|Other fields|69
+p|source|2693928
+p|Other_versions|4441
+p|permission|109869
+p|other fields|129
+p|description|384441
+p|Description|4791110
+p|other fields 1|7
+p|Permission|2410112
+p|Other_fields_1|0
+p|other_fields_1|75
+p|1|0
+p|Other fields 1|0
+p|date|7291363
+p|Source|5544456
+p|Author|10725873
+p|Date|9982658
+p|other_fields|27486
+p|other_versions|692371
+p|other versions|2594
+
+template|Template:Heine's songs translated by М. L. Mikhailow, 1858
+count|163
+properties|1
+p|page|162
+
+template|Template:User at project link
+count|6
+properties|5
+p|project|0
+p|realname|0
+p|langproject|0
+p|language|2
+p|user|2
+
+template|Template:Scans of correspondence from the West Gloucestershire Power Company in the 1940s
+count|9
+properties|3
+p|other_version|6
+p|other version|0
+p|description|6
+
+template|Template:Wikilien
+count|3
+properties|9
+p|couleur_bordure|0
+p|image|0
+p|align|0
+p|couleur_fond|2
+p|texte|2
+p|text|0
+p|border_color|0
+p|alignement|0
+p|font_color|0
+
+template|Template:Europe location
+count|59
+properties|10
+p|Hely|10
+p|Cat|1
+p|Państwo|1
+p|Date|33
+p|State|33
+p|other_versions|27
+p|Pays|8
+p|Држава|9
+p|Staat|33
+p|deroderdes|4
+
+template|Template:LOC-video
+count|2
+properties|5
+p|division_url|0
+p|division_name|0
+p|division|1
+p|1|0
+p|id|1
+
+template|Template:Messtischblatt
+count|56
+properties|24
+p|8|0
+p|name|7
+p|4|0
+p|gridy|7
+p|collage|0
+p|5|0
+p|year|7
+p|rev|0
+p|6|0
+p|1|0
+p|id|2
+p|check|6
+p|early_prussian|0
+p|saxon|1
+p|from|5
+p|2|0
+p|lon|0
+p|place|4
+p|7|0
+p|crop|2
+p|3|0
+p|prussian|5
+p|gridx|7
+p|lat|0
 
 template|Template:Infobox AFV
 count|3
@@ -5426,6 +5834,83 @@ p|armour|1
 p|width|1
 p|performance|1
 
+template|Template:Riverships.ru
+count|49
+properties|1
+p|migration|49
+
+template|Template:Der Kaufmann Georg Gisze (Holbein II)
+count|3
+properties|2
+p|Permission |0
+p|Source|1
+
+template|Template:ScottForesman
+count|2596
+properties|5
+p|description|1489
+p|other version|65
+p|raw|1624
+p|category|0
+p|other versions|93
+
+template|Template:Check categories-Geograph
+count|468192
+properties|8
+p|gridref|229464
+p|year|468192
+p|Geographcategory|456341
+p|category|0
+p|lon|456341
+p|day|468192
+p|lat|456341
+p|month|468192
+
+template|Template:Location map+
+count|9
+properties|14
+p|border|0
+p|float|1
+p|label|0
+p|1|0
+p|alt|0
+p|overlay image|0
+p|caption|1
+p|AlternativeMap|0
+p|overlay_image|1
+p|caption_undefined|0
+p|default_width|0
+p|width|1
+p|places|0
+p|relief|1
+
+template|Template:Moved from Japanese Wikipedia
+count|726
+properties|6
+p|page_history|4
+p|description|606
+p|filename|725
+p|category|0
+p|other_information|2
+p|file_history|2
+
+template|Template:Inaccurate paleoart
+count|795
+properties|4
+p|historical|91
+p|dinosaur|686
+p|skeleton|35
+p|reason|726
+
+template|Template:Mildenhall
+count|9
+properties|5
+p|photodate|9
+p|refandimagenumber|9
+p|phototitle|9
+p|category|0
+p|sourceoragency|8
+
 template|Template:List-flags
 count|1
 properties|7
@@ -5436,6 +5921,58 @@ p|link|1
 p|flag|1
 p|extra|0
 p|period|1
+
+template|Template:Oldffdfull-en
+count|42
+properties|3
+p|date|17
+p|result|17
+p|page|0
+
+template|Template:NASA info2
+count|2
+properties|20
+p|mission|2
+p|name|2
+p|primary data set|2
+p|size|2
+p|spacecraft2|2
+p|spacecraft alt|2
+p|target alt|0
+p|jpg size|0
+p|mission2|2
+p|satellite of alt|0
+p|spacecraft|2
+p|text|2
+p|satellite of|2
+p|mission alt|2
+p|produced by|2
+p|target|2
+p|original|2
+p|title|2
+p|jpeg size|2
+p|instrument|2
+
+template|Template:Viskovatov
+count|180
+properties|4
+p|Ill|179
+p|Description|2
+p|Author|0
+p|Part|179
+
+template|Template:Notify me
+count|14
+properties|3
+p|username|14
+p|project|14
+p|language|14
+
+template|Template:PD-Suomen
+count|37
+properties|2
+p|Kuvaus|37
+p|Description|37
 
 template|Template:VIS-gallery
 count|284
@@ -5458,6 +5995,12 @@ p|artist|45
 p|caption|45
 p|unfree|12
 
+template|Template:Selbstbildnis mit Augenschirm by Anton Graff
+count|2
+properties|2
+p|Permission |0
+p|Source|1
+
 template|Template:Main Frame/0
 count|5
 properties|3
@@ -5473,6 +6016,122 @@ p|Title|10
 p|text2|0
 p|map|8
 
+template|Template:Uncategorized-NARA
+count|11628
+properties|3
+p|year|11628
+p|month|11628
+p|day|11628
+
+template|Template:Album du Centenaire
+count|304
+properties|4
+p|Artwork description|0
+p|Source|1
+p|Artwork title|302
+p|Artwork artist|302
+
+template|Template:Ullmann
+count|1
+properties|75
+p|first2|0
+p|author4|0
+p|author|1
+p|first7|0
+p|first1|0
+p|last1|0
+p|last7|0
+p|author8|0
+p|authorlink5|0
+p|surname1|0
+p|given|0
+p|last5|0
+p|surname8|0
+p|authorlink4|0
+p|author1|0
+p|surname4|0
+p|given2|0
+p|author8-link|0
+p|coauthor|0
+p|page|0
+p|given6|0
+p|surname5|0
+p|pages|0
+p|surname|0
+p|last8|0
+p|authorlink|0
+p|author3|0
+p|author5|0
+p|first3|0
+p|author9|0
+p|authorlink7|0
+p|authorlink1|0
+p|last|0
+p|author6-link|0
+p|coauthors|0
+p|surname9|0
+p|first4|0
+p|surname3|0
+p|author7-link|0
+p|given7|0
+p|last9|0
+p|last4|0
+p|surname6|0
+p|given5|0
+p|author6|0
+p|authors|0
+p|authorlink2|0
+p|author2|0
+p|given4|0
+p|authorlink6|0
+p|given1|0
+p|first8|0
+p|contribution|0
+p|first|0
+p|last3|0
+p|author-link|0
+p|surname2|0
+p|author7|0
+p|title|1
+p|given8|0
+p|surname7|0
+p|last2|0
+p|first6|0
+p|authorlink3|0
+p|doi|1
+p|authorlink8|0
+p|author1-link|0
+p|last6|0
+p|first5|0
+p|volume|0
+p|author3-link|0
+p|author2-link|0
+p|author4-link|0
+p|author5-link|0
+p|given3|0
+
+template|Template:Image uploaded by user pcb21
+count|7
+properties|2
+p|Description|6
+p|Year|6
+
+template|Template:Review-wlm-hu
+count|3149
+properties|2
+p|date|1333
+p|user|1333
+
+template|Template:PD-anon-auto-1996
+count|67
+properties|6
+p|year|0
+p|country|56
+p|reason|4
+p|1|0
+p|date|35
+p|publication|56
+
 template|Template:Extra-intro
 count|5
 properties|4
@@ -5480,6 +6139,113 @@ p|text|4
 p|2|0
 p|1|0
 p|lang|4
+
+template|Template:COAInformation
+count|4367
+properties|103
+p|cre|0
+p|user1|220
+p|blasonnement-no|220
+p|ref-sk|2
+p|user9|1
+p|blasonnement-de|1313
+p|figure9|1
+p|blasonnn|2
+p|ref-en|223
+p|ref-nn|2
+p|blasonnement-fr|624
+p|ref-sv|57
+p|blasonhu|12
+p|ref-cz|3
+p|blasonnement-ru|213
+p|user5|10
+p|blasoncs|28
+p|blasonde|1714
+p|ref-ru|3
+p|blasoneu|104
+p|figure5|10
+p|ref-gl|7
+p|blasonda|3
+p|blasonnement-da|207
+p|ref-es|1977
+p|ref-no|1
+p|ref-ca|843
+p|ref-eo|0
+p|user8|2
+p|blasonsv|175
+p|Description|100
+p|ref-hu|5
+p|ref-sl|0
+p|figure3|63
+p|blasonnement-nn|218
+p|ref-de|997
+p|blasoneo|2
+p|user4|25
+p|blasonit|106
+p|Permission|272
+p|blasonnement-sl|208
+p|ref-da|0
+p|figure8|2
+p|blasonnement-cs|294
+p|key|1
+p|blasonnement-eu|222
+p|blasongl|103
+p|blasonnement-sv|370
+p|dessinateur|0
+p|other_fields_1|0
+p|ref-eu|10
+p|blasonnl|89
+p|blasonsk|3
+p|blasonca|1223
+p|blasonnement-gl|221
+p|ink|1404
+p|blasonfi|128
+p|blasonpt|133
+p|blasonen|4006
+p|Source|1203
+p|blasonnement-pt|283
+p|blasonnement-fi|382
+p|user2|117
+p|figure4|25
+p|ref-fi|8
+p|user7|3
+p|blasones|2566
+p|blasonnement-sk|216
+p|figure7|3
+p|blasonnement-cz|5
+p|Author|4281
+p|blasonpl|20
+p|blasonnement-pl|286
+p|blasonnement-eo|1
+p|blasonnement-ca|1123
+p|ref-nl|36
+p|Date|3708
+p|ref-cs|14
+p|figure1|222
+p|blasonsl|1
+p|sub|8
+p|err|8
+p|blasonnement-es|2718
+p|ref-it|24
+p|other_fields|0
+p|ref-pl|1
+p|blasonru|9
+p|blasonno|5
+p|user3|62
+p|user6|4
+p|sort|7
+p|balsoncz|0
+p|other_versions|1168
+p|ref-fr|166
+p|blasonnement-it|361
+p|blasonnement-nl|347
+p|figure6|4
+p|blasonnement-en|996
+p|ref-pt|5
+p|blasonfr|984
+p|val|1
+p|blasonnement-hu|278
+p|figure2|118
 
 template|Template:Atlas-oldcountry
 count|11
@@ -5501,6 +6267,20 @@ p|religion|11
 p|period|11
 p|index|0
 p|the|8
+
+template|Template:Scans from 'Autocar Handbook', Ninth edition
+count|28
+properties|10
+p|description|9
+p|page|7
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|5
+p|title|8
+p|other_version|1
+p|figure|8
+p|volume|0
 
 template|Template:Location map
 count|7
@@ -5534,6 +6314,118 @@ p|width|1
 p|lat|1
 p|relief|0
 
+template|Template:Scans from 'Rankin Kennedy, Modern Engines', 1912
+count|265
+properties|9
+p|description|26
+p|page|27
+p|chapter-title|0
+p|other version|0
+p|ref_page|1
+p|title|42
+p|other_version|21
+p|figure|53
+p|volume|256
+
+template|Template:Hurricane auto track map 2
+count|227
+properties|9
+p|author|226
+p|name|225
+p|source|227
+p|1|0
+p|end|184
+p|type|220
+p|other_versions|0
+p|start|184
+p|comments|1
+
+template|Template:Multilicense replacing placeholder new
+count|35
+properties|3
+p|class|26
+p|migration|4
+p|author|16
+
+template|Template:Scans from 'CJ Allen, Steel Highway', 1928
+count|130
+properties|12
+p|photo|85
+p|description|12
+p|page|1
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|facing-page|121
+p|sub-title|79
+p|title|127
+p|other_version|4
+p|figure|0
+p|volume|0
+
+template|Template:Indafotó review
+count|3220
+properties|6
+p|site|3217
+p|1|0
+p|date|3217
+p|2|0
+p|3|0
+p|user|3217
+
+template|Template:The Vanity of Arts and Sciences (Agrippa, 1694)
+count|396
+properties|2
+p|prev|393
+p|next|394
+
+template|Template:Bennylin
+count|179
+properties|4
+p|acara|179
+p|tahun|179
+p|negara|0
+p|bulan|179
+
+template|Template:Photo Information
+count|4412
+properties|35
+p|focal length|10
+p|support|0
+p|scanner|0
+p|model|7
+p|Shutter|2605
+p|exposure compensation|0
+p|Flash|970
+p|Lens|2309
+p|camera|13
+p|developer|0
+p|ISO|2955
+p|Film|694
+p|aperture|0
+p|exposure|10
+p|Focal length 35mm|86
+p|Model|4306
+p|filter|0
+p|iso|10
+p|Support|217
+p|focal length 35mm|0
+p|Focal length|2461
+p|Mode|241
+p|shutter|0
+p|mode|0
+p|notes|0
+p|flash|0
+p|Notes|288
+p|Exposure compensation|65
+p|Scanner|93
+p|f number|10
+p|Filter|333
+p|Aperture|2626
+p|film|0
+p|Developer|18
+p|lens|2
+
 template|Template:List-flags-maps
 count|1
 properties|9
@@ -5547,6 +6439,114 @@ p|extra|1
 p|moremaps|1
 p|period|1
 
+template|Template:Picture of week on the Czech Wikipedia
+count|111
+properties|3
+p|category|0
+p|týden|111
+p|rok|111
+
+template|Template:Festivalsommer 2013
+count|11950
+properties|7
+p|camera|4522
+p|credits|3431
+p|license|1395
+p|pr|24
+p|supporter|297
+p|accreditationID|314
+p|lens|3120
+
+template|Template:Infobox aircraft image/sandbox
+count|1
+properties|33
+p|imageauthor|1
+p|aircraftid|0
+p|demo|0
+p|Other_fields|0
+p|imagetype|1
+p|Other_versions|0
+p|permission|1
+p|imagedate|1
+p|description|1
+p|Aircraftid|0
+p|Imageauthor|0
+p|imageAuthor|0
+p|aircraftact|1
+p|Description|0
+p|Imageloc|0
+p|Permission|0
+p|imagesource|1
+p|Aircraftop|0
+p|aircraft|1
+p|imageloc|1
+p|Imagesource|0
+p|Aircraftact|0
+p|ImageDate|0
+p|ImageAuthor|0
+p|aircraftop|1
+p|imageDate|0
+p|other_fields|0
+p|imageSource|0
+p|Imagedate|0
+p|Aircraft|0
+p|other_versions|1
+p|Imagetype|0
+p|ImageSource|0
+
+template|Template:Author info
+count|4
+properties|4
+p|role|0
+p|occupation|1
+p|name|1
+p|gender|1
+
+template|Template:Flora Batava
+count|1583
+properties|5
+p|source|315
+p|description|3
+p|orignal_caption|315
+p|1|0
+p|type|312
+
+template|Template:Spoken article entry
+count|763
+properties|17
+p|user name|0
+p|permission|0
+p|link_to_recorded_version|437
+p|wiki lang|0
+p|full link|0
+p|accent|715
+p|user_name_link|18
+p|sex|296
+p|next_part|12
+p|date|738
+p|full_link|0
+p|title|744
+p|wiki_lang|108
+p|user_name|734
+p|first part|0
+p|next part|0
+p|first_part|13
+
+template|Template:MMChess
+count|24
+properties|4
+p|date|24
+p|type|24
+p|color|24
+p|piece|24
+
+template|Template:Linde Samuel Bogumił - Słownik języka polskiego
+count|4634
+properties|3
+p|prev|1425
+p|next|1426
+p|volume|1426
+
 template|Template:Mineral list
 count|1
 properties|7
@@ -5558,6 +6558,12 @@ p|Name English Wikipedia|1
 p|Name other languages|1
 p|Name German Wikipedia|1
 
+template|Template:Bible Illustrations (Sweet Publishing)-information
+count|6
+properties|2
+p|book|6
+p|chapter|6
+
 template|Template:Space mission
 count|153
 properties|4
@@ -5566,18 +6572,492 @@ p|insignia_size|0
 p|insignia|152
 p|previous|152
 
+template|Template:OSD station
+count|200
+properties|3
+p|Date|27
+p|Source|24
+p|Description|27
+
+template|Template:Polish SignWriting
+count|4151
+properties|17
+p|pl2|713
+p|source|4134
+p|pl6|14
+p|url|4151
+p|pl5|28
+p|variant|4151
+p|pl9|0
+p|pl3|242
+p|pl10|0
+p|pl8|2
+p|pl4|70
+p|date|4151
+p|en|4123
+p|ver|4151
+p|pl7|2
+p|other|4141
+p|pl|4151
+
+template|Template:No permission since/pt
+count|1
+properties|3
+p|year|1
+p|month|1
+p|day|1
+
+template|Template:Gauguin catalogues
+count|27
+properties|5
+p|W2|3
+p|category|0
+p|W|18
+p|W'|1
+p|S|17
+
+template|Template:Tintazul
+count|787
+properties|7
+p|License|290
+p|Description|509
+p|Permission|279
+p|Source|467
+p|Author|314
+p|Date|435
+p|other_versions|10
+
+template|Template:Open Font
+count|60
+properties|4
+p|category|0
+p|year|12
+p|author|12
+p|version|10
+
+template|Template:Wiki Loves Monuments 2012 international nominee
+count|90
+properties|4
+p|source-page|30
+p|country|40
+p|1|0
+p|source-url|10
+
+template|Template:Team
+count|11004
+properties|5
+p|event|11003
+p|logo|8126
+p|id|11003
+p|team|11003
+p|category|0
+
+template|Template:AAA-image
+count|318
+properties|30
+p|credit line|0
+p|ID|0
+p|Location|1
+p|demo|0
+p|source|48
+p|photographer|0
+p|location|0
+p|collection|0
+p|Title|318
+p|permission|6
+p|description|0
+p|Dimensions|0
+p|accession number|0
+p|Description|8
+p|inscription|0
+p|Permission|0
+p|medium|0
+p|Accession number|0
+p|Medium|1
+p|id|318
+p|date|0
+p|Source|0
+p|dimensions|0
+p|Date|5
+p|notes|0
+p|Notes|0
+p|title|0
+p|Inscriptions|0
+p|Photographer|238
+p|Credit line|0
+
+template|Template:Indafotó
+count|1
+properties|14
+p|Taken|0
+p|Other_versions|0
+p|photographer|1
+p|photographer_url|1
+p|permission|0
+p|description|0
+p|photographer_location|0
+p|Description|0
+p|Permission|0
+p|taken|1
+p|category|0
+p|reviewer|0
+p|other_versions|0
+p|self_made|1
+
+template|Template:PD-in
+count|50
+properties|15
+p|work_type|43
+p|US_published_first|43
+p|PD_NZ|1
+p|PD_URAA|5
+p|PD_Poland|0
+p|USGov|4
+p|creation|4
+p|anon|12
+p|US_formalities|41
+p|copyright_notice|8
+p|author_death|30
+p|publication|48
+p|wartime|0
+p|Russia_republish|0
+p|PD_home|12
+
+template|Template:Információ
+count|1194
+properties|7
+p|más változatok|56
+p|szerző|897
+p|dátum|907
+p|engedély|287
+p|leírás|922
+p|forrás|925
+p|helyszín|777
+
+template|Template:Recettes.viabloga.com
+count|1
+properties|2
+p|year|1
+p|month|1
+
+template|Template:WPQC
+count|1075
+properties|6
+p|image|0
+p|féminin|50
+p|gagnant|3
+p|nocat|0
+p|pseudo|1074
+p|numéro|1074
+
+template|Template:Scans from 'All About Railways'
+count|11
+properties|14
+p|photographer|3
+p|photo|0
+p|description|1
+p|page|2
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|date|0
+p|original_caption|1
+p|title|5
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:LicenseReview
+count|21396
+properties|7
+p|passed_cat|0
+p|site|16121
+p|1|0
+p|date|16306
+p|2|0
+p|3|0
+p|user|16305
+
+template|Template:Scans from 'Seaman's Pocket-Book', 1943
+count|18
+properties|10
+p|description|2
+p|page|2
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|title|3
+p|other_version|0
+p|figure|2
+p|volume|0
+
+template|Template:Yellow Book
+count|2
+properties|4
+p|lang|0
+p|name|1
+p|at|0
+p|page|1
+
+template|Template:Natfootbkitsinfo
+count|88
+properties|7
+p|elements|84
+p|author|87
+p|year|87
+p|national team|87
+p|date|87
+p|category|0
+p|kind|87
+
+template|Template:Openstreetmap render
+count|29
+properties|3
+p|date|1
+p|category|0
+p|name|16
+
+template|Template:Compressed version
+count|59
+properties|5
+p|thumb|2
+p|thumblimit|2
+p|filetype|37
+p|1|0
+p|file|38
+
+template|Template:Scans from 'Electrical Machinery', 1917
+count|27
+properties|4
+p|description|1
+p|title|21
+p|page|21
+p|figure|21
+
+template|Template:OrganismCat
+count|60
+properties|10
+p|species|25
+p|subordo|3
+p|subphylum|52
+p|phylum|56
+p|ordo|58
+p|genus|50
+p|subfamilia|7
+p|familia|56
+p|regnum|58
+p|classis|41
+
+template|Template:Australian Paralympic Committee
+count|1753
+properties|8
+p|author|1
+p|source|1
+p|description|0
+p|Description|5
+p|date|261
+p|Source|1391
+p|Author|1389
+p|Date|1467
+
+template|Template:파일 정보
+count|165
+properties|7
+p|설명|157
+p|저작권|135
+p|날짜|155
+p|기타|20
+p|만든이|160
+p|다른 버전|0
+p|출처|158
+
+template|Template:Piłsudski Institute document
+count|1202
+properties|32
+p|author|931
+p|archive_abstract|0
+p|people|5
+p|demo|0
+p|contributor|439
+p|inscriptions|0
+p|subject|0
+p|object_history|0
+p|permission|0
+p|other_pages|0
+p|wiki_description|2
+p|pages|1202
+p|object_type|583
+p|text|1202
+p|medium|0
+p|credit_line|0
+p|accession_number|1202
+p|department|0
+p|identifier_uri|1197
+p|references|124
+p|id|1197
+p|language|1202
+p|dates|353
+p|date|1050
+p|Text|0
+p|archive_description|0
+p|dimensions|0
+p|notes|0
+p|title|2
+p|lang|0
+p|other_versions|2
+p|places|9
+
+template|Template:Musical work
+count|92
+properties|56
+p|Other_fields_3|0
+p|other fields 2|0
+p|Other versions|0
+p|strict|0
+p|demo|0
+p|Other_fields|0
+p|Other fields|0
+p|lyrics_writer|26
+p|source|82
+p|Other_versions|0
+p|Title|0
+p|other_fields_3|0
+p|permission|6
+p|other fields|0
+p|Other_fields_2|0
+p|image|0
+p|description|8
+p|Other fields 2|0
+p|Description|0
+p|Composer|0
+p|other fields 1|0
+p|Composition date|0
+p|composer|51
+p|Permission|0
+p|lyrics writer|0
+p|Other_fields_1|0
+p|record ID|0
+p|Composition_Date|0
+p|other_fields_1|0
+p|performance_date|64
+p|references|0
+p|Other fields 1|0
+p|record_ID|6
+p|References|0
+p|Source|0
+p|Record_ID|0
+p|performance date|0
+p|composition_date|67
+p|other fields 3|0
+p|notes|4
+p|other_fields|0
+p|Notes|0
+p|Performance_Date|0
+p|title|46
+p|other_versions|8
+p|Image|0
+p|other versions|0
+p|Lyrics writer|0
+p|Performance date|0
+p|other_fields_2|0
+p|Lyrics_writer|0
+p|Performer|0
+p|Other fields 3|0
+p|Record ID|0
+p|performer|66
+p|composition date|0
+
+template|Template:MindInfo
+count|22
+properties|7
+p|VietaEN|22
+p|KitaVers|6
+p|pavaizdVardas|22
+p|Angliskai|22
+p|Lotyniskai|19
+p|VietaLT|22
+p|Data|22
+
+template|Template:Picturing Canada image
+count|1
+properties|3
+p|category|0
+p|dalhousie|1
+p|copyright|1
+
+template|Template:Scientific American issue
+count|795
+properties|11
+p|series|743
+p|source|795
+p|number |0
+p|page|0
+p|year|795
+p|editor|795
+p|publisher|795
+p|volume |0
+p|day|795
+p|volume|795
+p|month|795
+
+template|Template:Sourcetext
+count|2
+properties|8
+p|source|1
+p|book|1
+p|nobook|0
+p|chapter|1
+p|version|1
+p|range|0
+p|verse|1
+p|showsource|0
+
 template|Template:Molecule
 count|24
 properties|9
-p|Name|6
+p|Name|7
 p|InChI|3
-p|CAS|9
+p|CAS|10
 p|InChIKey|1
-p|Formula|9
-p|SMILES|9
+p|Formula|10
+p|SMILES|10
 p|ChemSpider|1
 p|StdInChI|1
 p|EC|3
+
+template|Template:WGA link
+count|149
+properties|4
+p|ID|56
+p|pic-url|79
+p|PAGENAME|0
+p|info-url|79
+
+template|Template:Sacred Books of the East volume
+count|50
+properties|6
+p|source|50
+p|page|50
+p|year|50
+p|topic|1
+p|translator|2
+p|volume|50
+
+template|Template:Zygmunt Kaczkowski - Ostatni z Nieczujów t. 1
+count|336
+properties|2
+p|prev|335
+p|next|335
+
+template|Template:Wikitravel
+count|16
+properties|4
+p|Date|14
+p|category|0
+p|Description|2
+p|Permission|0
 
 template|Template:Flag entry
 count|31
@@ -5591,6 +7071,209 @@ p|NoBorder|1
 p|Doublewide|1
 p|Image|0
 p|Image2|0
+
+template|Template:Scans from 'Rankin Kennedy, Electrical Installations', 1903
+count|243
+properties|10
+p|description|6
+p|page|12
+p|chapter-title|0
+p|year|66
+p|other version|0
+p|ref_page|0
+p|title|4
+p|other_version|9
+p|figure|11
+p|volume|239
+
+template|Template:Published-PN
+count|144
+properties|6
+p|author|94
+p|journal|143
+p|page|139
+p|year|143
+p|printed|0
+p|title|139
+
+template|Template:Summa Theologica (2nd rev. ed)
+count|20
+properties|4
+p|source|20
+p|year|20
+p|page|20
+p|volume|20
+
+template|Template:Kunstdenkmäler Frankfurt a O 1912
+count|17
+properties|4
+p|date|17
+p|description|0
+p|page|17
+p|author|3
+
+template|Template:Attribution-CC-Author
+count|1657
+properties|4
+p|WMUID|1657
+p|Name2|1657
+p|year|1657
+p|Name|1657
+
+template|Template:From Joconde
+count|3
+properties|3
+p|photographer|0
+p|pic|3
+p|info|3
+
+template|Template:Cc-by-sa-layout
+count|213
+properties|3
+p|country|102
+p|attribution|107
+p|version|108
+
+template|Template:PD MUTCD/en
+count|11
+properties|7
+p|widthmm|11
+p|mutcd|11
+p|sign|11
+p|heightin|11
+p|heightmm|11
+p|widthin|11
+p|user|11
+
+template|Template:Superimpose
+count|6
+properties|9
+p|x|3
+p|float_caption|2
+p|float|3
+p|y|3
+p|base_width|4
+p|add_style|0
+p|base|4
+p|base_caption|3
+p|float_width|4
+
+template|Template:COA Bw
+count|22
+properties|3
+p|int|5
+p|abbr|20
+p|unit|20
+
+template|Template:Moved from Japanese Wikipedia/PageHistory
+count|46
+properties|77
+p|mark1|0
+p|user1|46
+p|mark6|0
+p|user19|0
+p|flag14|0
+p|summary16|0
+p|mark15|0
+p|user9|0
+p|mark10|0
+p|summary5|0
+p|flag19|0
+p|user15|0
+p|summary2|0
+p|user5|0
+p|mark14|0
+p|user18|0
+p|user11|0
+p|flag7|0
+p|mark5|0
+p|mark18|0
+p|flag3|0
+p|flag10|0
+p|mark16|0
+p|mark19|0
+p|summary15|0
+p|timezone|46
+p|user8|0
+p|summary19|0
+p|flag13|0
+p|user16|0
+p|summary12|0
+p|user17|0
+p|user4|2
+p|user12|0
+p|summary7|0
+p|flag6|0
+p|summary1|44
+p|mark13|0
+p|mark9|0
+p|flag16|0
+p|mark2|2
+p|flag9|0
+p|flag8|0
+p|flag17|0
+p|flag12|0
+p|summary14|0
+p|mark4|0
+p|flag1|0
+p|mark12|0
+p|flag4|0
+p|user13|0
+p|summary4|2
+p|summary18|0
+p|user2|3
+p|summary8|0
+p|user7|0
+p|flag5|0
+p|mark3|0
+p|summary13|0
+p|mark8|0
+p|summary10|0
+p|user14|0
+p|summary9|0
+p|flag15|0
+p|user3|3
+p|summary3|1
+p|user6|0
+p|summary6|0
+p|flag18|0
+p|flag2|0
+p|summary17|0
+p|mark11|0
+p|flag11|0
+p|user10|0
+p|summary11|0
+p|mark7|0
+p|mark17|0
+
+template|Template:Self-portrait with Felt Hat (1888)
+count|17
+properties|5
+p|source|5
+p|precision title|0
+p|additional notes|0
+p|defaultnotes|0
+p|1|0
+
+template|Template:Bus-Information
+count|987
+properties|16
+p|Use|791
+p|Company|938
+p|Chassis|928
+p|Belongs_to|469
+p|Code|756
+p|Description|263
+p|Permission|703
+p|Remarks|196
+p|Source|598
+p|Body|919
+p|Author|752
+p|Date|970
+p|Model_Year|880
+p|other_versions|253
+p|Place|920
+p|License_Plate|851
 
 template|Template:Football kit info
 count|2
@@ -5608,10 +7291,26 @@ p|pattern_so|2
 p|socks|2
 p|pattern_ra|2
 
+template|Template:NASA-image
+count|10987
+properties|4
+p|center|9438
+p|category|0
+p|alternateid|1531
+p|id|9459
+
+template|Template:Wiki Loves Monuments 2011 Europe nominee
+count|167
+properties|4
+p|source-page|70
+p|country|129
+p|1|0
+p|source-url|59
+
 template|Template:Infobox artist
 count|462
 properties|18
-p|name|295
+p|name|296
 p|work location|11
 p|image|0
 p|occupation2|99
@@ -5622,7 +7321,7 @@ p|occupation1|457
 p|image caption|131
 p|father|35
 p|date of death|227
-p|nationality|455
+p|nationality|456
 p|work period|1
 p|place of death|352
 p|occupation4|3
@@ -5641,11 +7340,84 @@ p|link|2
 p|content|2
 p|title|3
 
+template|Template:Scans from 'The Book of the Motor Car', 1912
+count|54
+properties|6
+p|description|37
+p|page|0
+p|other version|0
+p|title|52
+p|other_version|11
+p|figure|40
+
+template|Template:The Garden of Earthly Delights by Hieronymus Bosch
+count|9
+properties|3
+p|Permission |0
+p|Notes|1
+p|Source |0
+
 template|Template:Evangelisch-Lutherische Dekanate in Bavaria
 count|95
 properties|2
 p|suffix|0
 p|prefix|24
+
+template|Template:Philately
+count|5679
+properties|19
+p|CIRCULATION|570
+p|PRINTER|1161
+p|HERAUSGEBER|635
+p|MOTIV|4451
+p|DESIGN|39
+p|ENTWURF|4106
+p|SCOTT|1164
+p|FDOI|1188
+p|PICTURE|1187
+p|ERSTAUSGABE|4453
+p|ZAEHNUNG|205
+p|SCAN|313
+p|AUFLAGE|3405
+p|PRINT|1181
+p|MICHEL|4918
+p|DRUCKTYP|3725
+p|PUBLISHER|9
+p|PERFORATION|1154
+p|DRUCKEREI|45
+
+template|Template:PD-old-auto-1996
+count|104
+properties|6
+p|year|0
+p|deathyear|90
+p|country|89
+p|reason|24
+p|1|0
+p|date|66
+
+template|Template:Dutch spoken article
+count|2132
+properties|11
+p|reviewed|2087
+p|link_to_recorded_version|47
+p|accent|59
+p|user_name_link|2
+p|sex|2126
+p|next_part|1
+p|date|2131
+p|full_link|3
+p|title|2128
+p|user_name|2125
+p|first_part|2
+
+template|Template:Uncategorized-Geograph
+count|528629
+properties|4
+p|gridref|476877
+p|year|528629
+p|month|528629
+p|day|528629
 
 template|Template:Image label small
 count|2
@@ -5655,6 +7427,202 @@ p|y|1
 p|scale|1
 p|text|0
 p|text-align|0
+
+template|Template:PD-UA-exempt/layout
+count|6
+properties|2
+p|text|1
+p|lang|1
+
+template|Template:Scans from 'Jamieson, Elementary Manual on Heat Engines', 1911
+count|4
+properties|8
+p|description|1
+p|page|1
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|title|1
+p|other_version|0
+p|figure|0
+
+template|Template:TIMEA
+count|2
+properties|1
+p|source|1
+
+template|Template:NLA-information
+count|1
+properties|12
+p|author|0
+p|collection|0
+p|description|0
+p|Collection|0
+p|Description|1
+p|text|0
+p|id|1
+p|date|0
+p|Author|1
+p|Date|1
+p|lang|0
+p|id=|0
+
+template|Template:NASA info3
+count|3
+properties|19
+p|mission|3
+p|name|3
+p|file size|3
+p|primary data set|3
+p|size|3
+p|spacecraft2|3
+p|spacecraft alt|3
+p|target alt|0
+p|mission2|3
+p|satellite of alt|0
+p|spacecraft|3
+p|text|3
+p|satellite of|3
+p|mission alt|3
+p|produced by|3
+p|target|3
+p|original|3
+p|title|3
+p|instrument|3
+
+template|Template:Artwork
+count|258030
+properties|89
+p|credit line|10272
+p|place_of_creation|1
+p|Other_fields_3|0
+p|ID|8775
+p|other fields 2|0
+p|Id|7
+p|author|6909
+p|Location|9447
+p|exhibition_history|4
+p|Place of creation|9
+p|Department|23
+p|Other versions|4475
+p|strict|2
+p|demo|0
+p|Other_fields|0
+p|Other fields|0
+p|Object type|4
+p|source|113646
+p|inscriptions|5414
+p|Other_versions|2702
+p|exhibition history|727
+p|location|14030
+p|size|198
+p|Title|10780
+p|object_history|13
+p|other_fields_3|0
+p|permission|10150
+p|other fields|0
+p|Other_fields_2|0
+p|description|22954
+p|Institution|12287
+p|Object_type|0
+p|Wikidata|2
+p|Dimensions|8470
+p|institution|111626
+p|object type|353
+p|Size|16
+p|accession number|79057
+p|Other fields 2|0
+p|Description|6880
+p|object_type|244
+p|object history|9107
+p|other fields 1|0
+p|year|752
+p|Museum|63
+p|Exhibition history|63
+p|Permission|15567
+p|medium|14441
+p|Other_fields_1|0
+p|Year|23586
+p|gallery|25095
+p|credit_line|16
+p|museum|23
+p|Accession number|416
+p|Medium|92
+p|other_fields_1|0
+p|department|878
+p|wikidata|216
+p|references|15127
+p|id|1728
+p|Other fields 1|1
+p|References|745
+p|Exhibition_history|0
+p|date|102602
+p|Source|68524
+p|artist|118470
+p|Credit_line|3654
+p|Author|23652
+p|Artist|44163
+p|dimensions|36895
+p|Object_history|5
+p|Date|17932
+p|other fields 3|0
+p|notes|15302
+p|technique|142
+p|other_fields|22
+p|Gallery|20463
+p|Notes|7570
+p|title|61231
+p|place of creation|353
+p|other_versions|25532
+p|Inscriptions|136
+p|other versions|4294
+p|Place_of_creation|22
+p|Technique|4309
+p|other_fields_2|859
+p|Other fields 3|0
+p|Object history|380
+p|Credit line|431
+
+template|Template:WikinewsPOTY
+count|3
+properties|2
+p|1|0
+p|place|1
+
+template|Template:Britain Loves Wikipedia
+count|109
+properties|2
+p|org|109
+p|logo|0
+
+template|Template:Зображення
+count|3540
+properties|8
+p|Інші версії|0
+p|nosubst|0
+p|Ліцензія|442
+p|Час створення|2932
+p|Автор|3089
+p|Джерело|2633
+p|Опис|2535
+p|Назва|1618
+
+template|Template:Scans from 'Burgess, Warships To-day', 1936
+count|61
+properties|13
+p|photographer|20
+p|photo|0
+p|description|23
+p|page|24
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|facing-page|27
+p|sub-title|7
+p|title|52
+p|other_version|17
+p|figure|27
+p|volume|0
 
 template|Template:Left-box-link
 count|19
@@ -5669,6 +7637,544 @@ p|moremaps|17
 p|period|18
 p|the|8
 
+template|Template:Ravenstein Atlas
+count|60
+properties|2
+p|description|0
+p|page|59
+
+template|Template:Overlay legend
+count|3
+properties|449
+p|overlay24link|1
+p|overlay5left3|0
+p|overlay22top|1
+p|overlay26colour|0
+p|overlay18top2|0
+p|overlay13top3|0
+p|overlay22link|1
+p|overlay13top|1
+p|overlay23top1|0
+p|overlay28tip|0
+p|overlay18left|1
+p|overlay8link|1
+p|overlay6left2|0
+p|overlay15left2|0
+p|legend1end|0
+p|overlay16colour|0
+p|overlay26top2|0
+p|overlay6top|1
+p|overlay10left2|0
+p|overlay10top|1
+p|overlay29|1
+p|legend4title|0
+p|overlay26left3|0
+p|overlay28color|0
+p|overlay11left2|0
+p|overlay18|2
+p|overlay19top1|0
+p|overlay7top1|0
+p|overlay27left3|0
+p|overlay10tip|0
+p|overlay12top|0
+p|overlay30left3|0
+p|overlay3left3|0
+p|overlay27top1|0
+p|overlay9left1|0
+p|overlay8top|1
+p|overlay12color|0
+p|overlay12left3|0
+p|overlay26link|0
+p|overlay15tip|1
+p|overlay16left2|0
+p|overlay2color|0
+p|overlay24left3|0
+p|overlay1color|0
+p|overlay28left2|0
+p|overlay30top2|0
+p|overlay9form|0
+p|overlay12top2|1
+p|overlay16color|1
+p|overlay24top3|0
+p|overlay12link|1
+p|overlay23left2|0
+p|overlay14top|1
+p|overlay14|2
+p|overlay5top|1
+p|overlay4top1|0
+p|overlay22form|0
+p|overlay2top2|0
+p|overlay8top3|0
+p|overlay19tip|1
+p|overlay30form|0
+p|overlay14colour|0
+p|overlay22left3|0
+p|overlay30tip|0
+p|overlay18left3|0
+p|overlay6color|0
+p|overlay24|2
+p|overlay3|2
+p|overlay29left|1
+p|overlay29left1|0
+p|overlay15color|0
+p|overlay6|2
+p|overlay14top2|0
+p|overlay4left|1
+p|overlay20link|1
+p|overlay2left|1
+p|overlay7left2|0
+p|overlay6tip|0
+p|border|0
+p|overlay11color|0
+p|overlay1left3|0
+p|overlay20left3|0
+p|overlay18color|1
+p|overlay11top|1
+p|overlay3left|1
+p|overlay4tip|1
+p|overlay29top3|0
+p|overlay17top1|0
+p|overlay20top1|0
+p|overlay3color|0
+p|overlay5colour|0
+p|overlay10form|0
+p|overlay4left3|0
+p|overlay16left3|0
+p|overlay5top1|0
+p|legend4end|0
+p|overlay2top3|0
+p|overlay26tip|0
+p|float|1
+p|overlay26top1|0
+p|overlay1top1|0
+p|image|0
+p|overlay21colour|1
+p|overlay15top2|0
+p|overlay5link|1
+p|overlay3tip|1
+p|overlay9top3|0
+p|overlay19left3|0
+p|overlay21top2|0
+p|overlay14left1|0
+p|overlay17left|1
+p|overlay13|2
+p|overlay17form|0
+p|overlay|1
+p|overlay11left|1
+p|overlay26color|0
+p|overlay29link|1
+p|overlay24left|1
+p|overlay10top1|0
+p|overlay19link|0
+p|overlay27form|0
+p|overlay21left1|0
+p|overlay17left3|0
+p|overlay27top|1
+p|overlay23top2|0
+p|overlay11tip|0
+p|overlay9colour|0
+p|overlay13left3|0
+p|overlay30top3|0
+p|overlay18top3|0
+p|overlay27left|1
+p|overlay11|2
+p|overlay6link|1
+p|overlay12left2|1
+p|overlay17|2
+p|overlay7form|0
+p|overlay19form|0
+p|overlay25tip|0
+p|overlay28top2|0
+p|overlay15left3|0
+p|overlay9left3|0
+p|overlay26top3|0
+p|legend2title|1
+p|overlay25form|0
+p|overlay18top|1
+p|overlay11top3|0
+p|overlay18colour|0
+p|overlay18tip|0
+p|overlay27colour|1
+p|overlay25left3|0
+p|overlay13left1|0
+p|overlay14color|0
+p|overlay8left1|0
+p|overlay28top|1
+p|overlay18left2|0
+p|overlay12tip|0
+p|overlay4colour|0
+p|overlay28link|0
+p|overlay28left3|0
+p|overlay29top|1
+p|overlay15top|1
+p|overlay2link|1
+p|overlay11link|1
+p|overlay28|1
+p|height|2
+p|overlay3form|0
+p|overlay8top1|0
+p|overlay2top|1
+p|overlay7tip|0
+p|overlay27top2|0
+p|overlay8color|0
+p|overlay22|2
+p|overlay21top3|0
+p|overlay7color|0
+p|overlay2left2|0
+p|overlay23left3|0
+p|overlay14form|0
+p|overlay23|2
+p|overlay23form|0
+p|overlay29left2|0
+p|overlay25top|1
+p|overlay20colour|0
+p|overlay4top3|0
+p|overlay23left|1
+p|overlay17top2|0
+p|overlay2tip|0
+p|legend6end|0
+p|overlay20form|1
+p|overlay24colour|2
+p|overlay24form|0
+p|overlay17top|1
+p|overlay26top|1
+p|overlay1top2|0
+p|overlay29color|0
+p|overlay13top1|0
+p|overlay4|2
+p|color|0
+p|overlay7|2
+p|overlay22left1|0
+p|overlay3left2|0
+p|overlay14left2|0
+p|overlay15form|0
+p|overlay7left3|0
+p|overlay27link|1
+p|overlay6colour|0
+p|overlay19color|0
+p|overlay23link|1
+p|legend5end|0
+p|overlay22top1|0
+p|overlay19top2|0
+p|overlay12|2
+p|overlay23colour|1
+p|overlay1tip|1
+p|overlay5color|0
+p|overlay25top1|0
+p|overlay10left3|0
+p|overlay25left1|0
+p|overlay19left2|0
+p|overlay5top2|0
+p|legend1start|1
+p|overlay10top3|0
+p|overlay30|1
+p|overlay25left2|0
+p|overlay11left3|0
+p|grid|0
+p|overlay7left|1
+p|overlay2left1|0
+p|overlay9top2|0
+p|overlay23top|1
+p|overlay21top|1
+p|legend3start|0
+p|overlay12top3|0
+p|overlay20left2|0
+p|overlay2form|0
+p|overlay25link|1
+p|overlay26left1|0
+p|overlay1left1|0
+p|overlay20left1|0
+p|overlay22colour|1
+p|overlay22tip|0
+p|overlay3top|1
+p|overlay15link|1
+p|overlay16|2
+p|overlay1top|1
+p|overlay19colour|1
+p|overlay28top3|0
+p|overlay26form|0
+p|overlay27left1|0
+p|overlay6left3|0
+p|overlay13form|0
+p|overlay11top2|0
+p|overlay13left2|0
+p|overlay22top2|0
+p|legend6title|0
+p|overlay21left2|0
+p|overlay17left2|0
+p|overlay12left1|1
+p|overlay30left1|0
+p|overlay30color|0
+p|overlay14tip|1
+p|overlay25colour|0
+p|overlay28colour|0
+p|overlay21form|0
+p|overlay24top1|0
+p|overlay3top2|0
+p|overlay2left3|0
+p|overlay10colour|1
+p|overlay10left|1
+p|overlay27|1
+p|overlay9|2
+p|overlay4top|1
+p|overlay8left2|0
+p|overlay30colour|1
+p|overlay1colour|1
+p|overlay19left1|0
+p|overlay12left|0
+p|overlay21color|0
+p|overlay6top1|0
+p|overlay8tip|0
+p|overlay26left|1
+p|overlay6left|1
+p|overlay27top3|0
+p|overlay10link|1
+p|overlay19top|1
+p|overlay14top3|0
+p|overlay18left1|0
+p|overlay28left1|0
+p|overlay24top|1
+p|overlay29left3|0
+p|overlay23top3|0
+p|overlay3link|1
+p|legend2start|1
+p|overlay30link|0
+p|overlay3left1|0
+p|overlay13tip|0
+p|overlay11colour|0
+p|overlay15left|1
+p|overlay9color|0
+p|overlay20left|1
+p|legend2end|0
+p|columns|1
+p|legend4start|0
+p|overlay3top1|0
+p|overlay13colour|1
+p|overlay11form|0
+p|overlay7colour|0
+p|overlay1left|1
+p|overlay4top2|0
+p|overlay29top1|0
+p|colour|0
+p|overlay1|2
+p|overlay17top3|0
+p|link|0
+p|legendbox|0
+p|overlay5left1|0
+p|overlay4left1|0
+p|overlay25color|0
+p|overlay1form|1
+p|overlay8top2|0
+p|overlay16form|0
+p|overlay5top3|0
+p|overlay9tip|1
+p|overlay24tip|0
+p|overlay20top3|0
+p|overlay27tip|0
+p|overlay17colour|0
+p|overlay29tip|1
+p|legend1title|1
+p|overlay9top1|0
+p|overlay15top1|0
+p|overlay13top2|0
+p|overlay20|2
+p|overlay19top3|0
+p|overlay30left|1
+p|overlay30top|1
+p|overlay20tip|1
+p|overlay5form|0
+p|overlay7top3|0
+p|overlay21left|1
+p|overlay14link|1
+p|overlay25left|1
+p|overlay15colour|1
+p|overlay17tip|0
+p|overlay1top3|0
+p|legend6start|0
+p|overlay21tip|0
+p|overlay17color|0
+p|overlay5left|1
+p|overlay3colour|0
+p|overlay8|2
+p|overlay14left|1
+p|overlay28top1|0
+p|overlay26left2|0
+p|overlay21link|0
+p|overlay15top3|0
+p|overlay14top1|0
+p|overlay27left2|0
+p|overlay6top2|0
+p|overlay7link|1
+p|overlay22top3|0
+p|overlay24top2|0
+p|overlay4link|1
+p|overlay19left|1
+p|overlay13left|1
+p|overlay9left|1
+p|overlay10color|0
+p|overlay6form|0
+p|overlay25top2|0
+p|overlay4color|0
+p|overlay16link|1
+p|overlay23color|0
+p|overlay30left2|0
+p|overlay1link|0
+p|overlay18top1|0
+p|overlay2colour|0
+p|overlay3top3|0
+p|overlay20top|1
+p|overlay14left3|0
+p|overlay11left1|0
+p|overlay9top|1
+p|overlay12colour|0
+p|overlay7top|1
+p|overlay22left|1
+p|overlay24left2|0
+p|legend3end|0
+p|overlay13link|1
+p|form|0
+p|overlay18link|1
+p|overlay8left3|0
+p|overlay12top1|1
+p|overlay23left1|0
+p|overlay16top3|0
+p|overlay29form|0
+p|overlay23tip|0
+p|overlay7top2|0
+p|overlay5left2|0
+p|overlay8colour|0
+p|legend5title|0
+p|overlay9left2|0
+p|overlay28form|0
+p|overlay17link|0
+p|overlay29colour|0
+p|overlay19|2
+p|overlay5|2
+p|overlay15left1|0
+p|overlay29top2|0
+p|overlay20top2|0
+p|overlay7left1|0
+p|legend3title|0
+p|overlay9link|1
+p|overlay22color|0
+p|overlay28left|1
+p|width|2
+p|overlay20color|1
+p|overlay5tip|0
+p|overlay17left1|0
+p|overlay8form|0
+p|overlay16top2|0
+p|overlay16tip|0
+p|overlay21|2
+p|overlay16left|1
+p|legend5start|0
+p|overlay2|2
+p|overlay24color|0
+p|overlay10|2
+p|overlay13color|0
+p|overlay30top1|0
+p|overlay12form|0
+p|overlay18form|0
+p|overlay26|1
+p|overlay8left|1
+p|overlay15|2
+p|overlay6top3|0
+p|overlay10top2|0
+p|overlay6left1|0
+p|overlay25top3|0
+p|overlay11top1|0
+p|overlay21top1|0
+p|overlay4left2|0
+p|overlay24left1|0
+p|overlay22left2|0
+p|overlay1left2|0
+p|overlay21left3|0
+p|overlay4form|0
+p|overlay25|1
+p|overlay16top|1
+p|overlay2top1|0
+p|overlay10left1|0
+p|overlay27color|0
+
+template|Template:Mbox
+count|440
+properties|8
+p|langlinks|0
+p|style|0
+p|image|0
+p|text|94
+p|textstyle|0
+p|imageright|9
+p|lang|0
+p|type|96
+
+template|Template:Top50
+count|35
+properties|4
+p|date|9
+p|category|0
+p|species|11
+p|author|1
+
+template|Template:BASA-image
+count|920
+properties|23
+p|credit line|0
+p|inventory|918
+p|author|2
+p|archival-unit|918
+p|inscriptions|0
+p|fonds|918
+p|exhibition history|0
+p|location|918
+p|identifier|0
+p|permission|0
+p|description|15
+p|sheet|915
+p|copy-creation-date|868
+p|medium|1
+p|references|0
+p|doc-creation-place|0
+p|date|449
+p|webpage|1
+p|operator|918
+p|dimensions|0
+p|notes|0
+p|title|1
+p|other versions|101
+
+template|Template:Wikimedia project screenshot
+count|367
+properties|4
+p|category|19
+p|logo|158
+p|project|153
+p|language|9
+
+template|Template:English spoken article
+count|731
+properties|11
+p|reviewed|102
+p|link_to_recorded_version|382
+p|accent|699
+p|user_name_link|59
+p|sex|410
+p|next_part|63
+p|date|717
+p|full_link|2
+p|title|723
+p|user_name|664
+p|first_part|57
+
+template|Template:Dio's Roman History volume
+count|9
+properties|5
+p|source|9
+p|page|9
+p|year|9
+p|license|0
+p|volume|9
+
 template|Template:WMF-Blog
 count|2
 properties|5
@@ -5677,6 +8183,128 @@ p|blog-wmf-day|1
 p|license|1
 p|blog-wmf-year|1
 p|blog-wmf-month|1
+
+template|Template:Image information art
+count|4
+properties|14
+p|city|3
+p|source|0
+p|permission|4
+p|height|4
+p|year|4
+p|museum|4
+p|creationLocation|2
+p|artist|4
+p|units|4
+p|depth|0
+p|title|4
+p|type|4
+p|width|4
+p|other|0
+
+template|Template:Marijnissen
+count|2
+properties|3
+p|p|1
+p|1|0
+p|as|1
+
+template|Template:Scans from 'Internal Combustion Engines', Wimperis, 1915
+count|7
+properties|9
+p|description|0
+p|page|2
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|title|2
+p|other_version|0
+p|figure|1
+p|volume|0
+
+template|Template:WPTC track map
+count|746
+properties|10
+p|author|745
+p|name|743
+p|source|28
+p|article|711
+p|season|744
+p|code|649
+p|othersource|709
+p|catname|700
+p|end|739
+p|start|744
+
+template|Template:Inkscape-hand
+count|661
+properties|19
+p|cre|3
+p|subcateg|28
+p|style|0
+p|tag|23
+p|tagging|28
+p|errors|0
+p|creator|0
+p|key|0
+p|errnum|0
+p|1|0
+p|vsub|0
+p|category|29
+p|sub|45
+p|err|3
+p|more|1
+p|sort|0
+p|cat|70
+p|width|0
+p|vtxt|0
+
+template|Template:Media of the day
+count|1045
+properties|7
+p|year|1026
+p|1|0
+p|2|0
+p|category|0
+p|3|0
+p|day|1033
+p|month|1033
+
+template|Template:Položka namluveného článku
+count|32
+properties|6
+p|délka|32
+p|pohlaví|32
+p|datum|32
+p|titulek|32
+p|autor|32
+p|přízvuk|10
+
+template|Template:Lanpher Furs, Season of 1910, Lanpher, Skinner & Co., Saint Paul
+count|97
+properties|4
+p|prev|96
+p|next|96
+p|2|0
+p|1|0
+
+template|Template:Scans from 'Modern Electric Practice'
+count|5
+properties|14
+p|photographer|0
+p|photo|0
+p|description|0
+p|page|1
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|date|0
+p|original_caption|0
+p|title|1
+p|other_version|0
+p|figure|1
+p|volume|2
 
 template|Template:ThisMonthInRecentYears
 count|370
@@ -5709,6 +8337,15 @@ p|extra|0
 p|religion|83
 p|the|8
 
+template|Template:English Wikipedia to Commons Transfer Documentation
+count|215
+properties|5
+p|name|15
+p|on|213
+p|by|212
+p|original|0
+p|other|193
+
 template|Template:Mineral article
 count|4
 properties|13
@@ -5726,6 +8363,13 @@ p|Name English Wikipedia|4
 p|Name other languages|4
 p|Name German Wikipedia|4
 
+template|Template:No permission since/ca
+count|1
+properties|3
+p|year|1
+p|month|1
+p|day|1
+
 template|Template:Main Frame/4
 count|4
 properties|7
@@ -5737,6 +8381,66 @@ p|link|1
 p|content|0
 p|title|2
 
+template|Template:Agent
+count|1
+properties|7
+p|years|0
+p|creator |0
+p|creator|1
+p|1|0
+p|role |0
+p|note|0
+p|2|0
+
+template|Template:Malayalam loves Wikimedia event
+count|1679
+properties|3
+p|category|0
+p|year|1654
+p|month|1654
+
+template|Template:Russian stamp from marka-art
+count|18
+properties|7
+p|authors_en|14
+p|year|18
+p|stamp_num|18
+p|authors_ru|14
+p|description_ru|18
+p|description_en|18
+p|month|18
+
+template|Template:Arcmap 10 map
+count|4
+properties|15
+p|Data2|0
+p|OSM-Data|0
+p|License|4
+p|As-is|4
+p|License3|1
+p|Data5|0
+p|File type|4
+p|License2|4
+p|Shields|0
+p|Data3|0
+p|category|0
+p|OSM-Base|0
+p|Data4|0
+p|Data|0
+p|Basemap|0
+
+template|Template:Notes and Queries volume
+count|152
+properties|8
+p|series|152
+p|source|152
+p|page|145
+p|year|152
+p|editor|0
+p|publisher|134
+p|volume|152
+p|period|142
+
 template|Template:GalleryLayout/start
 count|1
 properties|5
@@ -5746,69 +8450,324 @@ p|background-color|1
 p|border-color|0
 p|title|1
 
+template|Template:Illustratsiya Magazine
+count|16
+properties|4
+p|url|16
+p|year|16
+p|issue|16
+p|page|16
+
+template|Template:Uwlsubst
+count|1017
+properties|4
+p|category|0
+p|year|1017
+p|month|1017
+p|day|1017
+
+template|Template:All the Year Round volume
+count|59
+properties|11
+p|series|59
+p|source|59
+p|number_start|59
+p|page|59
+p|year|59
+p|number_end|59
+p|period_start|59
+p|period_end|59
+p|editor|59
+p|publisher|0
+p|volume|59
+
+template|Template:Flickr/Compact
+count|168
+properties|10
+p|photographer|167
+p|permission|57
+p|description|45
+p|photographer_login|167
+p|photo_id|166
+p|photographer_location|0
+p|taken|167
+p|reviewer|78
+p|title|167
+p|other_versions|8
+
+template|Template:Picture of the day
+count|3343
+properties|7
+p|year|3333
+p|1|0
+p|2|0
+p|category|0
+p|3|0
+p|day|3333
+p|month|3333
+
+template|Template:Bus-Information/ja
+count|975
+properties|16
+p|Use|819
+p|Company|974
+p|Chassis|974
+p|Belongs_to|608
+p|Code|668
+p|Description|292
+p|Permission|857
+p|Remarks|354
+p|Source|840
+p|Body|959
+p|Author|859
+p|Date|969
+p|Model_Year|860
+p|other_versions|284
+p|Place|969
+p|License_Plate|967
+
+template|Template:GFPLM-image-full
+count|1681
+properties|63
+p|credit line|0
+p|author|1
+p|recordgroup|1299
+p|series|1297
+p|Other versions|2
+p|Format|0
+p|pdfsize|1299
+p|source|200
+p|inscriptions|0
+p|Other_versions|0
+p|size|0
+p|Title|382
+p|TIFF|295
+p|Series|295
+p|object_history|0
+p|Other_pages|0
+p|other pages|0
+p|permission|0
+p|description|0
+p|Institution|1678
+p|other_pages|0
+p|Dimensions|0
+p|pdfscanid|1298
+p|Size|0
+p|Description|1214
+p|object history|0
+p|year|0
+p|text|0
+p|arcid|0
+p|Permission|0
+p|medium|0
+p|creator|0
+p|Year|0
+p|credit_line|0
+p|Medium|0
+p|Creator|295
+p|references|0
+p|References|0
+p|ARC|382
+p|date|1
+p|Source|87
+p|Credit_line|0
+p|Text|0
+p|collectionurl|1299
+p|Author|87
+p|Other pages|0
+p|dimensions|0
+p|Object_history|0
+p|Date|1442
+p|notes|0
+p|pdfurl|1299
+p|box|1298
+p|technique|0
+p|Record group|295
+p|Notes|0
+p|title|1
+p|other_versions|2
+p|Inscriptions|0
+p|Place|1
+p|other versions|0
+p|Technique|0
+p|Object history|0
+p|Credit line|0
+
+template|Template:No source since
+count|301
+properties|4
+p|category|0
+p|year|281
+p|month|282
+p|day|282
+
+template|Template:Building address
+count|1211
+properties|20
+p|Province|0
+p|Other|0
+p|Country|575
+p|Post town|0
+p|Bare|0
+p|Street name|552
+p|House name|115
+p|Listing|0
+p|country|0
+p|Conscription number|14
+p|References|0
+p|Postal code|535
+p|City|578
+p|District|0
+p|Notes|0
+p|lang|0
+p|State|560
+p|Powiat|0
+p|Gmina|0
+p|House number|512
+
+template|Template:Beeldinligting
+count|18
+properties|5
+p|outeur|13
+p|datum|16
+p|ander_weergawes|7
+p|bron|16
+p|beskrywing|16
+
+template|Template:Bibliotheque Nationale MS Fr. 68
+count|23
+properties|2
+p|folio|23
+p|desc|23
+
+template|Template:Creator
+count|133
+properties|30
+p|demo|0
+p|Stub label|0
+p|Name|76
+p|Deathdate|72
+p|Birthloc|34
+p|Wikidata|3
+p|Occupation|8
+p|Description|1
+p|Homecat|12
+p|Wikiquote|0
+p|Name1|0
+p|Deathloc|35
+p|Deathyear|0
+p|Birthdate|67
+p|Birthyear|0
+p|Reference|0
+p|References|0
+p|Workperiod|13
+p|Nationality|8
+p|Option|0
+p|Wikisource|0
+p|Workloc|21
+p|Image|0
+p|Gender|8
+p|ImgWidth|0
+p|Authority|0
+p|Sortkey|21
+p|Linkback|3
+p|Alternative names|19
+p|Type|0
+
+template|Template:ImageNoteColors
+count|5
+properties|6
+p|outer|0
+p|1|0
+p|2|0
+p|inner|1
+p|3|0
+p|active|1
+
+template|Template:Scans from 'Army Service Corps Training, Mechanical Transport', 1911
+count|55
+properties|10
+p|description|5
+p|page|8
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|title|6
+p|other_version|0
+p|figure|8
+p|volume|0
+
+template|Template:Credit line
+count|139
+properties|3
+p|License|126
+p|Other|93
+p|Author|123
+
 template|Template:Multiple image
 count|31
 properties|60
-p|width3|2
-p|caption2|1
+p|width3|3
+p|caption2|2
 p|width9|1
-p|image1|6
+p|image1|28
 p|alt3|0
 p|caption6|1
 p|link10|0
 p|link7|0
 p|width6|1
-p|image4|3
+p|image4|4
 p|image7|1
 p|footer_background|0
-p|align|5
+p|align|26
 p|width8|1
 p|width10|1
-p|direction|5
+p|direction|6
 p|link2|0
 p|caption9|1
 p|link8|0
-p|caption3|0
+p|caption3|1
 p|alt2|0
 p|alt9|0
 p|link3|0
 p|image8|1
 p|alt6|0
 p|alt5|0
-p|image3|2
+p|image3|24
 p|header_align|1
 p|alt10|0
 p|link1|0
 p|footer_align|1
 p|caption10|1
-p|background color|0
+p|background color|21
 p|caption7|1
 p|width7|1
-p|width4|3
+p|width4|4
 p|image5|1
 p|image9|1
-p|width1|4
+p|width1|5
 p|link9|0
 p|caption8|1
 p|alt8|0
 p|link4|0
-p|caption4|1
+p|caption4|2
 p|header|1
 p|alt4|0
-p|image2|5
+p|image2|27
 p|link6|0
 p|alt1|0
 p|header_background|0
-p|caption1|2
+p|caption1|3
 p|width5|1
 p|link5|0
-p|width|2
+p|width|23
 p|caption5|1
 p|alt7|0
 p|footer|2
 p|image10|1
 p|image6|1
-p|width2|3
+p|width2|4
 
 template|Template:Interface-ga
 count|1
@@ -5816,6 +8775,99 @@ properties|3
 p|name|1
 p|template|1
 p|calend|0
+
+template|Template:Scans from 'The Wonder Book of Engineering Wonders', 1931
+count|27
+properties|15
+p|subtitle|16
+p|photographer|14
+p|photo|0
+p|description|6
+p|page|17
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|date|1
+p|original_caption|0
+p|title|22
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:Art Photo
+count|1716
+properties|43
+p|credit line|49
+p|ID|10
+p|Other versions|1
+p|Other_fields|0
+p|Other fields|0
+p|source|78
+p|inscriptions|21
+p|Other_versions|0
+p|photographer|1655
+p|photo date|1522
+p|exhibition history|85
+p|location|371
+p|photo description|40
+p|permission|4
+p|other fields|0
+p|description|136
+p|institution|379
+p|object type|269
+p|artwork licence|0
+p|Photo description|0
+p|accession number|381
+p|object history|57
+p|medium|92
+p|gallery|731
+p|wikidata|3
+p|references|182
+p|artwork header|0
+p|date|271
+p|artist|883
+p|Photo date|1
+p|artwork license|8
+p|dimensions|42
+p|notes|51
+p|other_fields|18
+p|title|85
+p|place of creation|2
+p|other_versions|56
+p|other versions|40
+p|Photographer|1
+p|photo licence|0
+p|photo license|11
+p|artwork|1
+p|Photo license|0
+
+template|Template:Interval
+count|2
+properties|10
+p|name|1
+p|notation|0
+p|just cents|0
+p|equal cents|1
+p|letter|1
+p|ratio|0
+p|equal ratio|1
+p|just ratio|0
+p|limit|0
+p|cents|0
+
+template|Template:Artwork-provenanceorcl
+count|638
+properties|9
+p|oldowner|368
+p|1|0
+p|through|3
+p|date|58
+p|time|25
+p|type|409
+p|against|0
+p|memory|5
+p|honor|0
 
 template|Template:Atlas-country-it
 count|1
@@ -5843,6 +8895,64 @@ p|english name|1
 p|index|0
 p|the|0
 
+template|Template:Scans from 'Carpentry and Joinery', 1925
+count|20
+properties|8
+p|description|15
+p|page|9
+p|chapter-title|0
+p|other version|0
+p|title|0
+p|other_version|0
+p|figure|13
+p|volume|19
+
+template|Template:LOC-music
+count|1
+properties|4
+p|division_name|0
+p|division_url|0
+p|division|1
+p|id|1
+
+template|Template:BSD-2c-KDE
+count|4
+properties|2
+p|Year|3
+p|Author|3
+
+template|Template:Uploaded with WLM Mobile
+count|17
+properties|3
+p|platform|17
+p|app-version|17
+p|lang|0
+
+template|Template:Utilisateur tabltrai vivitar
+count|6
+properties|5
+p|lieu|6
+p|résolution|6
+p|description|4
+p|date|6
+p|note|0
+
+template|Template:The Present State of Civil Service Reform
+count|11
+properties|3
+p|prev|10
+p|next|10
+p|curr|11
+
+template|Template:BSDwithdisclaimer
+count|3
+properties|5
+p|Holder|0
+p|Year|2
+p|Author|2
+p|Organisation|0
+p|Owner|0
+
 template|Template:Mineral variety
 count|7
 properties|6
@@ -5856,11 +8966,107 @@ p|Name German Wikipedia|7
 template|Template:Image label
 count|5
 properties|5
-p|x|2
-p|y|2
-p|scale|2
-p|text|2
+p|x|3
+p|y|3
+p|scale|3
+p|text|3
 p|text-align|0
+
+template|Template:Kortabók
+count|35
+properties|5
+p|Title|35
+p|Origin|34
+p|Year|35
+p|Source|35
+p|Author|25
+
+template|Template:Plant description
+count|1
+properties|7
+p|author|1
+p|institution|1
+p|scientific name|1
+p|vernacular name|1
+p|season|1
+p|licence|1
+p|date|1
+
+template|Template:Equestrian statue/ImageNote test
+count|1
+properties|5
+p|dimx|1
+p|es|1
+p|dimy|1
+p|h|1
+p|w|1
+
+template|Template:NARA-image-full
+count|124999
+properties|63
+p|credit line|0
+p|Location|124798
+p|Other versions|113785
+p|Format|0
+p|source|54
+p|inscriptions|0
+p|Other_versions|3108
+p|Record group ARC|124770
+p|size|0
+p|Scope|0
+p|Title|124523
+p|TIFF|65919
+p|Series|124784
+p|object_history|0
+p|Other_pages|0
+p|other pages|0
+p|permission|2
+p|Institution|28
+p|other_pages|0
+p|Dimensions|0
+p|File unit|8214
+p|Size|0
+p|Description|382
+p|object history|0
+p|year|0
+p|text|0
+p|Permission|0
+p|medium|0
+p|Year|0
+p|credit_line|0
+p|Series ARC|124707
+p|Scope and content|29747
+p|Medium|0
+p|Creator|124247
+p|references|6
+p|File unit ARC|8209
+p|References|1
+p|ARC|124473
+p|date|0
+p|Source|23
+p|Please-do-not-overwrite-original-files|0
+p|Credit_line|0
+p|Text|3
+p|Author|1293
+p|Other pages|173
+p|dimensions|0
+p|Object_history|0
+p|Date|82240
+p|notes|2
+p|Local identifier|93958
+p|technique|0
+p|Record group|124795
+p|Notes|0
+p|Variant control numbers|124303
+p|Derivative|1
+p|other_versions|91
+p|Inscriptions|0
+p|Place|95
+p|other versions|37
+p|Technique|0
+p|Object history|0
+p|General notes|4750
+p|Credit line|0
 
 template|Template:Infobox Place
 count|18
@@ -5885,6 +9091,20 @@ p|other-wikis-category-nl|0
 p|lat|3
 p|other-wikis-category-la|0
 
+template|Template:NROER
+count|4
+properties|2
+p|reviewer|3
+p|status|3
+
+template|Template:WilamowskiJG
+count|3871
+properties|4
+p|date|3871
+p|other_versions|2
+p|author|3871
+p|wym|3871
+
 template|Template:Show-years-centuries
 count|2
 properties|15
@@ -5904,13 +9124,585 @@ p|cell2-fontsize|1
 p|link-cent-prefix|1
 p|link-year-prefix|0
 
+template|Template:Christie's online
+count|6
+properties|4
+p|ID|4
+p|sale|3
+p|nocat|0
+p|lot|3
+
+template|Template:Flickr
+count|29179
+properties|11
+p|Taken|0
+p|Other_versions|3
+p|photographer_url|28865
+p|permission|9226
+p|description|21769
+p|Description|13
+p|Permission|11
+p|taken|28544
+p|reviewer|22131
+p|other_versions|254
+p|self_made|134
+
+template|Template:Cc-by-3.0-BollywoodHungama
+count|5168
+properties|2
+p|reviewer|5166
+p|status|5166
+
+template|Template:Cumulative hurricane track maps
+count|2
+properties|6
+p|author|2
+p|source|2
+p|What|2
+p|end|2
+p|other_versions|0
+p|start|2
+
+template|Template:WikiArS contributions project
+count|142
+properties|3
+p|school|139
+p|org|139
+p|isartschool|1
+
+template|Template:OTRS received
+count|49
+properties|18
+p|8|0
+p|4|0
+p|9|0
+p|5|0
+p|year|47
+p|reason|2
+p|ticket|0
+p|6|0
+p|1|0
+p|id|47
+p|2|0
+p|category|0
+p|freeform|0
+p|7|0
+p|3|0
+p|day|47
+p|nocat|0
+p|month|47
+
+template|Template:Classical Music Metadata
+count|3
+properties|21
+p|Superordinate work|0
+p|Location|0
+p|Choir|0
+p|Title|0
+p|Category|2
+p|Opus|2
+p|Number|1
+p|Composer|2
+p|Instrumentation|0
+p|Ensemble|1
+p|Orchestra|1
+p|Conductor|1
+p|Tempo|1
+p|Main performer|0
+p|Date|1
+p|Kind|0
+p|Surname|2
+p|Common denotation|0
+p|Performer|0
+p|Movement|1
+p|Key|1
+
+template|Template:Uncategorized
+count|434723
+properties|5
+p|year|434689
+p|1|0
+p|category|5
+p|day|434689
+p|month|434689
+
+template|Template:IllustratedDescriptionChangesUniforms
+count|23
+properties|2
+p|Ill|22
+p|Description|0
+
+template|Template:Google Cultural Institute
+count|2903
+properties|66
+p|c-0160a551:customtext.description|0
+p|Location|0
+p|commons:accession_number|48
+p|object_work_type|0
+p|museum_internal_id|0
+p|special:partner/name no lang|0
+p|commons:artist|1753
+p|c-0160a551:creator.painter|0
+p|commons:object_history|13
+p|Accession_Number|0
+p|c-0160a551:customtext.alternative_title|0
+p|special:partner/name_no_lang|2897
+p|commons:location|9
+p|commons:dimensions|0
+p|core:date|55
+p|Inscription|0
+p|c-0160a551:customtext.technique|0
+p|c-0160a551:creator.peinter|0
+p|c-03b9c20a:creator.artist|0
+p|commons:source|0
+p|c-069361c8:creator.painter|0
+p|commons:inscriptions|2
+p|level_display_name|0
+p|c-0160a551:customtext.provenance|0
+p|commons:other_versions|18
+p|level_detail_url|0
+p|c-0160a551:creator.cabinet_maker|0
+p|core:date.dateCreated|2842
+p|core:format|0
+p|Signature|0
+p|google:partner/name|2524
+p|core:title|9
+p|room_detail_url|0
+p|commons:date|24
+p|core:format.medium|0
+p|art:artist_date|2508
+p|Signature_&_Date|0
+p|Inscription:_Marks|0
+p|commons:exhibition_history|0
+p|core:description|0
+p|commons:zoom|0
+p|collection_display_name|0
+p|Exhibitions|0
+p|c-047cd332:creator.painter|0
+p|Exhibition|0
+p|Signatures,_Inscriptions,_and_Markings|0
+p|commons:references|41
+p|commons:credit_line|20
+p|room_display_name|0
+p|core:creator|3
+p|commons:institution|45
+p|object_link|0
+p|c-0160a551:customtext.subject|0
+p|commons:description|4
+p|c-0160a551:creator.sculptor|0
+p|commons:medium|0
+p|commons:notes|2
+p|Inscriptions|0
+p|c-0160a551:creator.painter_and_engraver|0
+p|Inscribed|0
+p|Signed|0
+p|Inscription:_Signed_and_Dated|0
+p|commons:title|1
+p|google:display_date|2898
+p|Exhibition_History|0
+p|google:is_gigapixel|2843
+
+template|Template:NYPL map
+count|608
+properties|17
+p|standard_reference|256
+p|location|607
+p|item_page_plate|230
+p|digital_item_published|607
+p|creator|433
+p|alternate_title|12
+p|catalog_call_number|586
+p|item_physical_description|366
+p|link_catalog|607
+p|date|583
+p|image_title|606
+p|notes|347
+p|source_description|258
+p|other_versions|3
+p|creators|34
+p|additional_names|301
+p|digital_id|607
+
+template|Template:US patent reference
+count|2
+properties|5
+p|y|1
+p|m|1
+p|inventor|1
+p|title|1
+p|d|1
+
+template|Template:Bible Illustrations (Sweet Publishing)-category
+count|2880
+properties|2
+p|book|2879
+p|chapter|2879
+
+template|Template:Transferred from WikiAppunti/Luca Ghio
+count|331
+properties|6
+p|history|329
+p|it|329
+p|prehistory|121
+p|date|329
+p|en|329
+p|preprehistory|18
+
+template|Template:Władysław Reymont - Ziemia obiecana
+count|861
+properties|3
+p|prev|859
+p|next|860
+p|volume|860
+
+template|Template:Uploaded with en.wp UW marker
+count|39557
+properties|3
+p|year|39555
+p|month|39555
+p|day|39555
+
+template|Template:No permission since/en
+count|4
+properties|3
+p|year|4
+p|month|4
+p|day|4
+
+template|Template:Konuşan madde dosya bilgisi
+count|5
+properties|13
+p|ilk parça|0
+p|incelendi|5
+p|tarih|5
+p|user_name_link|0
+p|kullanıcı_adı|5
+p|süre|5
+p|madde|5
+p|amended|0
+p|kullanıcı adı|0
+p|sonraki parça|0
+p|sonraki_parça|0
+p|ilk_parça|0
+p|kullanıcı_adı_bağlantısı|0
+
+template|Template:Picture of week on the Malay Wikipedia
+count|80
+properties|3
+p|minggu|79
+p|tahun|79
+p|category|0
+
 template|Template:ImageNoteControl
 count|115
 properties|4
-p|type|55
-p|notes|55
-p|caption|57
-p|img|57
+p|type|69
+p|notes|69
+p|caption|71
+p|img|71
+
+template|Template:Uploaded from Mobile
+count|32696
+properties|3
+p|platform|32696
+p|lang|0
+p|version|18858
+
+template|Template:Maria Konopnicka - Poezye
+count|3158
+properties|4
+p|prev|3148
+p|next|3148
+p|Volume|0
+p|volume|3148
+
+template|Template:The Yellow Book volume
+count|13
+properties|7
+p|source|13
+p|location|0
+p|page|13
+p|year|13
+p|publisher|3
+p|volume|13
+p|month|13
+
+template|Template:British-Museum-object
+count|206
+properties|7
+p|number|195
+p|size|177
+p|description|193
+p|objectid|139
+p|id|51
+p|loc|178
+p|lang|0
+
+template|Template:Deriv-Nifmap
+count|1
+properties|5
+p|Description|1
+p|Source|1
+p|Author|1
+p|Date|1
+p|Action|1
+
+template|Template:GGMahjongTile
+count|34
+properties|5
+p|hand|2
+p|prev|2
+p|date|34
+p|catg|2
+p|piece|34
+
+template|Template:PictureSet
+count|1
+properties|28
+p|desc5|0
+p|8|0
+p|image1|1
+p|set desc|1
+p|4|0
+p|desc1|1
+p|9|0
+p|image4|0
+p|desc9|0
+p|image7|0
+p|5|0
+p|desc6|0
+p|desc2|1
+p|image8|0
+p|6|0
+p|1|0
+p|image3|1
+p|desc3|1
+p|image5|0
+p|desc7|0
+p|image9|0
+p|2|0
+p|desc4|0
+p|image2|1
+p|7|0
+p|3|0
+p|desc8|0
+p|image6|0
+
+template|Template:OpenStreetMap
+count|1762
+properties|13
+p|name|567
+p|source|81
+p|location|590
+p|description|216
+p|bottom|492
+p|left|492
+p|odbl|604
+p|authors|515
+p|date|471
+p|category|34
+p|other_versions|71
+p|top|492
+p|right|492
+
+template|Template:Festivalsommer
+count|2172
+properties|8
+p|camera|415
+p|credits|623
+p|year|1061
+p|license|0
+p|pr|4
+p|supporter|0
+p|accreditationID|387
+p|lens|415
+
+template|Template:Vexilla Hispanica
+count|247
+properties|3
+p|Description|22
+p|other_versions|4
+p|migration|245
+
+template|Template:Wayback
+count|10
+properties|1
+p|date|3
+
+template|Template:Fraenger
+count|1
+properties|3
+p|p|1
+p|1|0
+p|as|1
+
+template|Template:Open Plaques
+count|8
+properties|4
+p|personid|3
+p|plaqueid|3
+p|lang|0
+p|name|3
+
+template|Template:BAnQ-image
+count|1
+properties|12
+p|author|1
+p|source|0
+p|fonds|1
+p|latitude|1
+p|center|0
+p|description|0
+p|longitude|1
+p|id|1
+p|date|0
+p|title|0
+p|id url|1
+p|centre|1
+
+template|Template:PoDaSP
+count|84
+properties|2
+p|year|84
+p|week|84
+
+template|Template:Specimen
+count|5436
+properties|74
+p|credit line|1
+p|Other_fields_3|0
+p|other fields 2|0
+p|author|3963
+p|Location|0
+p|exhibition_history|0
+p|Other versions|0
+p|Other_fields|0
+p|Other fields|0
+p|source|7
+p|Other_versions|1
+p|photographer|7
+p|exhibition history|0
+p|location|0
+p|object_history|0
+p|discovery place|123
+p|other_fields_3|0
+p|permission|2
+p|other fields|0
+p|Other_fields_2|0
+p|Taxon|62
+p|description|118
+p|Institution|6
+p|institution|5029
+p|accession number|1059
+p|Other fields 2|0
+p|Description|9
+p|object history|1
+p|other fields 1|0
+p|Exhibition history|0
+p|depicted place|2
+p|camera location|25
+p|Permission|13
+p|Other_fields_1|0
+p|credit_line|0
+p|sex|382
+p|Accession number|2
+p|other_fields_1|0
+p|Period|0
+p|references|0
+p|Discovery place|1
+p|Other fields 1|0
+p|References|0
+p|Exhibition_history|0
+p|date|132
+p|Source|43
+p|Depicted place|0
+p|taxon|5347
+p|Cultivar|2
+p|Credit_line|0
+p|Dimension|0
+p|Author|1438
+p|dimensions|0
+p|Object_history|0
+p|Date|1439
+p|other fields 3|0
+p|notes|0
+p|other_fields|0
+p|Notes|2
+p|Camera coord|0
+p|other_versions|498
+p|camera coord|0
+p|other versions|0
+p|Authority|41
+p|other_fields_2|0
+p|Other fields 3|0
+p|Sex|4
+p|Photographer|0
+p|cultivar|3
+p|Object history|0
+p|Camera location|0
+p|period|2
+p|authority|1073
+p|Credit line|0
+
+template|Template:Supported by Wikimedia France
+count|37404
+properties|6
+p|year|0
+p|quarter|0
+p|1|0
+p|hide|4491
+p|catname|4491
+p|ignore|0
+
+template|Template:Scans from 'Heat Engines', 1913
+count|71
+properties|8
+p|description|16
+p|page|6
+p|chapter-title|0
+p|other version|0
+p|title|4
+p|other_version|7
+p|figure|16
+p|volume|0
+
+template|Template:Harper's Weekly Editorials on Carl Schurz
+count|34
+properties|5
+p|page|34
+p|prev|33
+p|date|34
+p|next|33
+p|topic|34
+
+template|Template:Dictionary of Greek and Roman Biography and Mythology (1870) volume
+count|3
+properties|2
+p|source|0
+p|volume|3
+
+template|Template:HABS data ingestion layout
+count|4
+properties|10
+p|item_title|4
+p|item_place_latitude|4
+p|creators_title|0
+p|state|4
+p|item_place_longitude|4
+p|subst|0
+p|county|4
+p|item_call_number|4
+p|loc_id|4
+p|extracted_date|1
+
+template|Template:LIFE
+count|4
+properties|5
+p|location|3
+p|year|3
+p|2|0
+p|category|0
+p|3|0
 
 template|Template:Taxobox
 count|10
@@ -5922,7 +9714,7 @@ p|subgenus_authority|0
 p|image_width|1
 p|synonyms|0
 p|series|0
-p|name|1
+p|name|2
 p|superordo_authority|0
 p|superregnum_authority|0
 p|binomial_authority|1
@@ -5935,22 +9727,22 @@ p|superdivisio_authority|0
 p|domain|0
 p|sectio|0
 p|subregnum_authority|0
-p|tribus|0
+p|tribus|1
 p|microphylum|0
 p|diversity link|0
 p|range map|0
 p|series_authority|0
 p|divisio_authority|0
 p|phylum_authority|0
-p|subdivision_ranks|0
+p|subdivision_ranks|1
 p|nanophylum|0
 p|domain_authority|0
 p|subtribus_authority|0
-p|divisio|1
+p|divisio|2
 p|superfamilia_authority|0
 p|supertribus_authority|0
 p|range_map_width|0
-p|color|2
+p|color|3
 p|infraordo|0
 p|subphylum|0
 p|phylum|2
@@ -5959,21 +9751,21 @@ p|subregnum|0
 p|diversity|0
 p|trinomial_authority|0
 p|superregnum|0
-p|ordo|3
+p|ordo|4
 p|type_species_authority|0
-p|genus_authority|0
-p|genus|3
-p|subfamilia|0
+p|genus_authority|1
+p|genus|4
+p|subfamilia|1
 p|supertribus|0
 p|subfamilia_authority|0
 p|superphylum_authority|0
 p|subphylum_authority|0
 p|fossil_range|0
 p|superordo|0
-p|familia|3
+p|familia|4
 p|superclassis|0
 p|status|0
-p|subdivision|0
+p|subdivision|1
 p|species_authority|0
 p|superfamilia|0
 p|superphylum|0
@@ -5991,40 +9783,229 @@ p|infraordo_authority|0
 p|nanophylum_authority|0
 p|sectio_authority|0
 p|trinomial|0
-p|subtribus|0
+p|subtribus|1
 p|type_species|0
 p|subgenus|0
 p|microphylum_authority|0
 p|regnum_authority|0
 p|subdivisio_authority|0
-p|regnum|3
+p|regnum|4
 p|subclassis|0
 p|familia_authority|0
 p|range_map|0
 p|superdivisio|0
-p|classis|3
+p|classis|4
+
+template|Template:Audio upload
+count|573
+properties|8
+p|user name|0
+p|file name|0
+p|accent|562
+p|sex|561
+p|date|570
+p|time|552
+p|title|569
+p|user_name|569
+
+template|Template:Leon Bączkiewicz - Notebook
+count|76
+properties|3
+p|prev|74
+p|next|75
+p|chapter|75
+
+template|Template:PD-URAA-noformalities-unrestored
+count|2
+properties|9
+p|4|0
+p|override|2
+p|deathyear|0
+p|country|2
+p|1|0
+p|2|0
+p|3|0
+p|formalities|2
+p|publicationyear|2
 
 template|Template:Location on map
 count|3
 properties|4
-p|top|2
-p|left|2
-p|caption|2
-p|map|2
+p|top|3
+p|left|3
+p|caption|3
+p|map|3
 
 template|Template:Listen
 count|16
 properties|3
-p|description|6
-p|filename|6
-p|title|6
+p|filename|16
+p|description|16
+p|title|16
+
+template|Template:BAM-image
+count|88
+properties|27
+p|credit line|0
+p|Location|0
+p|demo|0
+p|source|88
+p|photographer|0
+p|location|0
+p|Title|87
+p|permission|18
+p|description|0
+p|Dimensions|0
+p|accession number|0
+p|Description|0
+p|inscription|0
+p|Permission|0
+p|medium|0
+p|Accession number|0
+p|Medium|0
+p|date|0
+p|Source|0
+p|dimensions|0
+p|Date|1
+p|notes|0
+p|Notes|0
+p|title|0
+p|Inscriptions|0
+p|Photographer|0
+p|Credit line|0
+
+template|Template:Information2
+count|541
+properties|14
+p|Location|498
+p|demo|0
+p|Other_fields|0
+p|Other_versions|3
+p|Description|361
+p|depicted place|1
+p|Permission|162
+p|Other_fields_1|0
+p|Source|491
+p|Depicted place|0
+p|Author|500
+p|Date|523
+p|Camera coord|0
+p|camera coord|0
+
+template|Template:Archival version
+count|56
+properties|5
+p|thumb|0
+p|thumblimit|1
+p|filetype|38
+p|1|0
+p|file|42
+
+template|Template:Multilicense replacing placeholder
+count|87
+properties|3
+p|class|61
+p|migration|78
+p|author|34
+
+template|Template:TorontoHollarCollection
+count|2469
+properties|7
+p|date|166
+p|dimensions|2445
+p|notes|12
+p|technique|1
+p|classification|2462
+p|title|2459
+p|other_versions|116
+
+template|Template:Mechanical Curator image
+count|2
+properties|5
+p|system|2
+p|sortkey|0
+p|flickr|2
+p|category|0
+p|hasLicense|1
 
 template|Template:ImageAnnotations
 count|11
 properties|3
-p|shared|2
-p|thumb|3
-p|inline|3
+p|shared|8
+p|thumb|9
+p|inline|9
+
+template|Template:Crusier
+count|340
+properties|7
+p|inne|20
+p|data|113
+p|date|219
+p|en|332
+p|other_versions|37
+p|other|0
+p|pl|332
+
+template|Template:Book/Sandbox
+count|1
+properties|26
+p|Translator|1
+p|Other_versions|0
+p|Title|1
+p|Volume|1
+p|LCCN|0
+p|Illustrator|0
+p|Editor|0
+p|Description|1
+p|Homecat|0
+p|ISBN|0
+p|Permission|0
+p|Edition|0
+p|Printer|0
+p|Subtitle|0
+p|Series title|0
+p|Pageoverview|0
+p|Language|1
+p|Source|1
+p|City|1
+p|Author|1
+p|Wikisource|1
+p|Date|1
+p|Image|0
+p|Publisher|1
+p|Image page|1
+p|OCLC|0
+
+template|Template:Book authority control
+count|8
+properties|12
+p|LCCNlabel|0
+p|demo|0
+p|BNFlabel|0
+p|LCCN|0
+p|ISBNlabel|0
+p|ISBN|2
+p|OCLClabel|0
+p|bare|0
+p|BNF|0
+p|lang|0
+p|TITLElabel|0
+p|OCLC|1
+
+template|Template:Details-bodymorphproj
+count|33
+properties|11
+p|photog-init|32
+p|subj-ht|32
+p|subj-sn|32
+p|pos-code|32
+p|model-release|32
+p|date|32
+p|subj-age|32
+p|subj-wt|32
+p|subj-gender|32
+p|subj-sex|32
+p|subj-notes|32
 
 template|Template:Element
 count|120
@@ -6050,6 +10031,500 @@ p|Japanese|116
 p|Esperanto|2
 p|atomic number 3|118
 
+template|Template:Chinese spoken article
+count|32
+properties|9
+p|link_to_recorded_version|25
+p|accent|31
+p|sex|29
+p|next_part|3
+p|date|32
+p|full_link|0
+p|title|32
+p|user_name|31
+p|first_part|5
+
+template|Template:Flag
+count|132
+properties|13
+p|SHAPE|42
+p|FROM|50
+p|FIAV|65
+p|OTHERNAMES|6
+p|CHARACTERISTICS|5
+p|NAME|55
+p|OF|78
+p|UNTIL|2
+p|FORMAT|79
+p|CREATOR|28
+p|COUNTRY|53
+p|MAINCOLORS|25
+p|TYPE|36
+
+template|Template:No permission since/de
+count|2
+properties|3
+p|year|2
+p|month|2
+p|day|2
+
+template|Template:Frame
+count|4
+properties|3
+p|color|0
+p|title|2
+p|content|2
+
+template|Template:Swedish spoken article
+count|1
+properties|12
+p|reviewed|0
+p|user name|0
+p|accent|1
+p|user_name_link|0
+p|next_part|0
+p|date|1
+p|time|1
+p|title|1
+p|user_name|1
+p|first part|0
+p|next part|0
+p|first_part|0
+
+template|Template:Van Gogh catalogues
+count|23
+properties|3
+p|F|17
+p|F |0
+p|JH|18
+
+template|Template:Scans from 'Steam and the Steam Engine - Land and Marine', 1875
+count|23
+properties|5
+p|description|9
+p|other version|0
+p|title|0
+p|other_version|0
+p|figure|0
+
+template|Template:PD-BrazilGov/layout
+count|6
+properties|2
+p|text|1
+p|lang|1
+
+template|Template:PD-Iran/layout
+count|4
+properties|2
+p|text|2
+p|lang|2
+
+template|Template:Fotothek-Description
+count|61541
+properties|211
+p|ob30_3|70
+p|5007_1_501a|15
+p|5109_1_5116a|121
+p|8450_1_8480|6343
+p|5200|0
+p|ob40_5_4498|26
+p|ob30_6_3496|0
+p|ob40_9_410d|0
+p|ob30_2_3496|4
+p|5007_1|15
+p|author|25
+p|ob30_9_310d|0
+p|ob30_1_3496|19
+p|ob40_2_4498|212
+p|ob40_8|187
+p|ob30_7|1
+p|ob40_8_410d|0
+p|Other versions|0
+p|ob40_3_4475|702
+p|ob45_2_4600|1433
+p|ob40_4|569
+p|8450_1|35280
+p|ob30_9_3498|0
+p|5220|0
+p|52se|19019
+p|52ku|6332
+p|ob45_3_4600|0
+p|ob40_5|445
+p|source|6
+p|8450_1_8494|23889
+p|ob30_2_3100|312
+p|ob35_1_3998|0
+p|Other_versions|0
+p|ob30_5_3498|0
+p|ob45_3_4998|0
+p|5360|0
+p|2965|0
+p|5130|0
+p|ob45_2_4998|13
+p|ob40_6_410d|0
+p|ob30_5_3470|0
+p|5140_1_5145|4
+p|ob30_2_3498|38
+p|ob30_7_3475|1
+p|5007_1_5009|15
+p|ob30_5_3496|0
+p|ob40_9|139
+p|ob30_8|0
+p|ob30_2_3470|0
+p|5140_1|4
+p|ob40_7_4475|266
+p|5358|0
+p|ob40_1_4100|2234
+p|description|141
+p|ob30_6_3470|0
+p|ob30_4_310d|0
+p|ob30_1_310d|3
+p|ob40_7_4100|267
+p|599a_1|88
+p|ob45_3|0
+p|ob40_3_4498|99
+p|ob35_1|53
+p|ob40_7_410d|0
+p|5108_1_5116|1097
+p|ob30_2_310d|0
+p|ob40_1_4475|2087
+p|ob40_1|2750
+p|ob30_9_3475|0
+p|8450_1_8490|35264
+p|ob40_8_4475|187
+p|5109_1|123
+p|ob45_2|1433
+p|ob40_7_4498|12
+p|ob30_7_3498|0
+p|ob40_3_410d|38
+p|ob40_6_4475|313
+p|ob30_6_3475|1
+p|ob40_5_4100|446
+p|ob35_1_3975|53
+p|ob40_6|314
+p|5230|0
+p|9902|0
+p|ob40_1_410d|516
+p|ob40_4_4475|565
+p|ob30_9_3496|0
+p|ob40_9_4475|139
+p|ob30_8_3470|0
+p|5364_1_5365|7
+p|5930_1_5944|9
+p|5240|0
+p|ob35_1_3600|53
+p|8450_1_8540|0
+p|ob30_7_3100|1
+p|599a_1_599n|0
+p|ob26_1_2660|5
+p|ob30_7_310d|0
+p|ob30_4_3496|2
+p|ob40_5_4475|444
+p|ob30_5_3475|3
+p|ob40_3_4100|715
+p|ob30_3_3496|4
+p|8450_1_8479|418
+p|ob30_5_310d|0
+p|52in|18076
+p|ob40_2_4100|1163
+p|ob30_4|14
+p|ob30_6_310d|0
+p|520b|1
+p|ob26_1_2700|52
+p|ob30_9_3470|0
+p|ob40_9_4100|139
+p|ob28_1_2864|17
+p|8450_1_8491|15
+p|5300|0
+p|ob28_1_2900|17
+p|ob40_8_4498|5
+p|8450_1_8460|35278
+p|ob30_5|3
+p|ob40_6_4100|314
+p|8450_1_8482|16181
+p|5108_1|32881
+p|5007_1_5013|15
+p|ob40_2|1242
+p|8450_1_8555|135
+p|ob40_7|267
+p|ob40_5_410d|0
+p|5108_1_5117|122
+p|ob28_1_2950|15
+p|ob30_4_3475|14
+p|ob35_1_3996|6
+p|ob30_8_3475|0
+p|ob30_6_3100|1
+p|ob30_8_310d|0
+p|ob30_1_3100|786
+p|ob30_3_3498|16
+p|ob45_1|10801
+p|ob28_1_2930|2
+p|ob30_3_3470|0
+p|date|2093
+p|52df|28403
+p|ob26_1_2664|52
+p|ob30_1|789
+p|ob40_6_4498|16
+p|ob30_8_3496|0
+p|ob40_9_4498|4
+p|5108_1_5110|535
+p|5930_1|17
+p|comment|41
+p|ob30_4_3100|15
+p|ob26_1|52
+p|ob30_9_3100|0
+p|ob40_8_4100|187
+p|ob30_3_3475|67
+p|ob26_1_2661|3
+p|5202|0
+p|ob30_4_3498|3
+p|5007_1_501m|15
+p|ob26_1_2690|3
+p|ob30_1_3498|159
+p|ob40_1_4498|429
+p|ob40_2_410d|81
+p|5007_1_501k|15
+p|ob30_5_3100|4
+p|ob30_2|304
+p|ob30_3_3100|73
+p|ob30_6_3498|0
+p|599a_1_599e|88
+p|8450_1_8510|608
+p|ob26_1_2730|40
+p|9920|0
+p|ob30_7_3496|0
+p|ob30_1_3475|732
+p|ob30_7_3470|0
+p|ob30_3_310d|0
+p|5109_1_5117a|5
+p|8450_1_8470|35278
+p|ob45_1_4998|0
+p|ob40_4_410d|0
+p|ob30_6|1
+p|520a|121
+p|5060_1|837
+p|other_versions|165
+p|ob26_1_2662|45
+p|55df|31666
+p|other versions|60
+p|ob40_3|752
+p|8450_1_8481|5961
+p|5007_1_5010|15
+p|5060_1_5062|831
+p|ob28_1|17
+p|ob40_4_4100|570
+p|ob30_8_3498|0
+p|ob35_1_3970|1
+p|5064|0
+p|ob30_1_3470|19
+p|5198|0
+p|ob30_2_3475|295
+p|ob30_4_3470|0
+p|ob45_1_4600|10801
+p|ob28_1_2890|2
+p|5730|0
+p|8350|0
+p|5000|0
+p|99d3|18148
+p|5204|0
+p|ob30_9|0
+p|5364_1|7
+p|5260|0
+p|ob30_8_3100|0
+p|ob40_2_4475|1140
+p|ob40_4_4498|58
+
+template|Template:LSH artwork
+count|19960
+properties|29
+p|inventory number|19675
+p|source|19960
+p|inscriptions|3440
+p|photographer|4925
+p|event|2610
+p|photo-license|19960
+p|description|4601
+p|original filename|19960
+p|negative|7413
+p|place of origin|1079
+p|deathyear|42
+p|medium|8620
+p|object-id|16160
+p|references|0
+p|date|3963
+p|artist|89
+p|object-multiple|284
+p|dimensions|12387
+p|provenance|9070
+p|category|0
+p|original caption|10028
+p|photo-id|19960
+p|notes|0
+p|exhibition|8005
+p|positive|7411
+p|title|195
+p|manufacturer|4946
+p|other_versions|10883
+p|period|0
+
+template|Template:WikiProject India Maps
+count|147
+properties|6
+p|Other_versions|1
+p|Title|145
+p|Description|143
+p|Source|97
+p|Author|146
+p|Date|147
+
+template|Template:Walks.ru
+count|228
+properties|1
+p|migration|162
+
+template|Template:National Library of Israel
+count|141
+properties|2
+p|Hebrew description|127
+p|English description|119
+
+template|Template:EthnologyItemMHNT
+count|40
+properties|30
+p|credit line|0
+p|Other versions|1
+p|inscriptions|0
+p|photographer|0
+p|Title|0
+p|permission|0
+p|photodate|0
+p|description|0
+p|accession number|0
+p|Origin|39
+p|Description|0
+p|processing|0
+p|Processing|1
+p|Permission|0
+p|culture|0
+p|Culture|40
+p|Accession number|40
+p|date|0
+p|origin|0
+p|Date|0
+p|notes|0
+p|technique|0
+p|Notes|0
+p|title|0
+p|Inscriptions|0
+p|other versions|0
+p|Technique|0
+p|Photographer|40
+p|Photodate|40
+p|Credit line|0
+
+template|Template:Изображение
+count|3871
+properties|6
+p|Источник|2724
+p|Время создания|2889
+p|subst|0
+p|Описание|3149
+p|Автор|3081
+p|Название|126
+
+template|Template:DeLocMaps
+count|7
+properties|24
+p|mun|3
+p|enlklink|3
+p|frlandlink|2
+p|land|6
+p|frlklink|3
+p|frland|4
+p|enlk|5
+p|enmunlink|0
+p|enland|5
+p|frlk|4
+p|enmun|0
+p|enlandlink|2
+p|landlink|0
+p|lklink|0
+p|nlmunlink|0
+p|lk|6
+p|nllk|0
+p|nllandlink|0
+p|nllklink|0
+p|munlink|1
+p|nlland|0
+p|nlmun|0
+p|frmun|0
+p|frmunlink|0
+
+template|Template:O engenhoso fidalgo dom Quixote de la Mancha
+count|2040
+properties|4
+p|prev|2040
+p|next|2040
+p|vol|0
+p|volume|2040
+
+template|Template:Check categories-Fotothek
+count|4119
+properties|5
+p|year|4118
+p|1|0
+p|category|0
+p|day|4118
+p|month|4118
+
+template|Template:Boska komedia (1870)
+count|847
+properties|2
+p|prev|845
+p|next|845
+
+template|Template:RepresentationOfTheUniforms
+count|12
+properties|2
+p|Ill|11
+p|Description|0
+
+template|Template:М. L. Mikhailov's poems, 1862
+count|336
+properties|1
+p|page|329
+
+template|Template:Some Object Lessons
+count|15
+properties|3
+p|prev|14
+p|next|14
+p|curr|15
+
+template|Template:No source since/en
+count|6
+properties|3
+p|year|6
+p|month|6
+p|day|6
+
+template|Template:WAP assignment
+count|90
+properties|5
+p|ended|11
+p|course|12
+p|project|1
+p|term|12
+p|university|12
+
+template|Template:B&B 1913
+count|54
+properties|4
+p|genus|53
+p|species|53
+p|common name|0
+p|author|3
+
 template|Template:Atlas-continent-it
 count|1
 properties|10
@@ -6063,6 +10538,504 @@ p|language|1
 p|intro|0
 p|extra|0
 p|religion|1
+
+template|Template:Delete
+count|3623
+properties|11
+p|demo|0
+p|4|0
+p|5|0
+p|year|3526
+p|reason|3514
+p|6|0
+p|1|0
+p|2|0
+p|subpage|3470
+p|day|3526
+p|month|3526
+
+template|Template:Infobox aircraft image
+count|85414
+properties|33
+p|imageauthor|78983
+p|aircraftid|81942
+p|demo|0
+p|Other_fields|17
+p|imagetype|84946
+p|Other_versions|0
+p|permission|260
+p|imagedate|70721
+p|description|2740
+p|Aircraftid|214
+p|Imageauthor|214
+p|imageAuthor|0
+p|aircraftact|1123
+p|Description|202
+p|Imageloc|214
+p|Permission|0
+p|imagesource|84591
+p|Aircraftop|214
+p|aircraft|78871
+p|imageloc|78175
+p|Imagesource|0
+p|Aircraftact|202
+p|ImageDate|0
+p|ImageAuthor|0
+p|aircraftop|71615
+p|imageDate|0
+p|other_fields|4
+p|imageSource|0
+p|Imagedate|204
+p|Aircraft|214
+p|other_versions|73
+p|Imagetype|0
+p|ImageSource|0
+
+template|Template:Located map
+count|2
+properties|9
+p|north_angle|1
+p|map_caption|1
+p|scale|1
+p|point_y|1
+p|point_caption|1
+p|point_x|1
+p|map_width|1
+p|size_width|1
+p|map image|0
+
+template|Template:InlineImageAnnotations
+count|37
+properties|2
+p|thumb|20
+p|inline|20
+
+template|Template:Picture of the day on the Karachay-Balkar Wikipedia
+count|20
+properties|3
+p|date|19
+p|datekrc|19
+p|category|0
+
+template|Template:The Democracy of the Merit System
+count|29
+properties|3
+p|prev|28
+p|next|28
+p|curr|29
+
+template|Template:Europeana upload
+count|53
+properties|11
+p|dc:format|22
+p|dc:description|39
+p|dc:date|20
+p|dcterms:spatial|17
+p|europeana:dataProvider|33
+p|europeana:dataProvider_0|34
+p|europeana:provider_0|53
+p|dcterms:extent|18
+p|dc:creator|13
+p|dcterms:created|13
+p|dc:title|53
+
+template|Template:Chemical structure verified
+count|801
+properties|14
+p|StdInChIKey|2
+p|InChI|800
+p|CAS|797
+p|CAS-number|0
+p|EC-number|2
+p|InChIKey|2
+p|version|790
+p|StdInChIkey|3
+p|InChIkey|798
+p|EINECS|0
+p|category|0
+p|CASNo|2
+p|StdInChI|5
+p|EC|356
+
+template|Template:Harper's Weekly Editorials by Carl Schurz
+count|41
+properties|5
+p|page|41
+p|prev|40
+p|date|41
+p|next|40
+p|topic|41
+
+template|Template:PD-USGov-Military-DVIC
+count|42
+properties|5
+p|ID|39
+p|Location|40
+p|Operator|40
+p|Description|40
+p|Date|40
+
+template|Template:VIC-thumb
+count|3
+properties|10
+p|review|0
+p|image|0
+p|nominator|1
+p|scope|1
+p|reason|0
+p|date|1
+p|status|1
+p|usedin|0
+p|orientation|1
+p|subpage|1
+
+template|Template:Uncategorized-Army
+count|1
+properties|3
+p|year|1
+p|month|1
+p|day|1
+
+template|Template:Blason-fr-en-it
+count|6615
+properties|20
+p|source|3
+p|blasonnement-fr|6544
+p|noink|0
+p|sourceit|4391
+p|nofr|1
+p|blasonit|5533
+p|dessinateur|6602
+p|alias|5940
+p|catCOAof|5775
+p|blasonen|6389
+p|sourceen|5434
+p|category|0
+p|sub|1
+p|err|1
+p|catSVGCOA|2204
+p|blasonnement-it|2380
+p|sourcefr|6000
+p|blasonnement-en|1192
+p|blasonfr|6533
+p|val|0
+
+template|Template:Scans from 'Our Generation', 1938
+count|20
+properties|12
+p|description|6
+p|page|0
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|date|18
+p|original_caption|19
+p|title|0
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:Published
+count|79
+properties|268
+p|quote4|0
+p|coauthors4|0
+p|date4|0
+p|issn4|0
+p|url4|0
+p|accessmonthday3|0
+p|format|0
+p|accessdate3|1
+p|editor-last5|0
+p|archiveurl4|0
+p|first2|0
+p|accessyear2|0
+p|editor-type|0
+p|author4|0
+p|author|9
+p|title2|2
+p|accessmonth|0
+p|archivedate5|0
+p|editor-first|0
+p|editorlink2|0
+p|format2|0
+p|location4|0
+p|pmid5|0
+p|id5|0
+p|accessdaymonth2|0
+p|curly|0
+p|postscript3|0
+p|pages2|0
+p|pages5|0
+p|authorlink5|0
+p|legal4|0
+p|location|4
+p|dateformat4|0
+p|language4|0
+p|last5|0
+p|pmc2|0
+p|archivedate|0
+p|year3|0
+p|language5|0
+p|editor-type4|0
+p|accessdaymonth|0
+p|editor-first4|0
+p|authorlink4|0
+p|month2|0
+p|editor2|0
+p|origdate3|0
+p|issue2|0
+p|pmc|0
+p|url|73
+p|postscript4|0
+p|editorlink5|0
+p|issn5|0
+p|publisher2|2
+p|doi2|0
+p|quote3|0
+p|coeditors4|0
+p|editor-first3|0
+p|cite3|2
+p|isbn4|0
+p|legal3|2
+p|authors2|0
+p|coauthors5|0
+p|title5|0
+p|editor4|0
+p|language3|1
+p|id2|0
+p|origdate|0
+p|accessyear|0
+p|journal|1
+p|edition3|0
+p|chapter5|0
+p|coeditors3|0
+p|cite4|0
+p|accessmonthday2|0
+p|accessmonth4|0
+p|page|3
+p|publisher5|0
+p|page3|0
+p|url5|0
+p|location3|0
+p|doi5|0
+p|editor-link2|0
+p|pmid|0
+p|chapter3|0
+p|editor-first5|0
+p|curly2|0
+p|archiveurl3|0
+p|journal3|0
+p|pages|1
+p|pages3|0
+p|curly5|0
+p|date5|0
+p|issn3|0
+p|pmc3|0
+p|authorlink|1
+p|author3|0
+p|author5|0
+p|quote5|0
+p|issue5|0
+p|year|0
+p|volume3|0
+p|first3|0
+p|accessyear5|0
+p|work3|0
+p|note5|0
+p|editor-type3|0
+p|isbn3|0
+p|accessmonth5|0
+p|editor-link3|0
+p|authors5|0
+p|chapter2|0
+p|edition|0
+p|year2|0
+p|quote2|0
+p|pmid4|0
+p|others|0
+p|dateformat5|0
+p|editor-last2|0
+p|origdate2|0
+p|last|4
+p|archivedate2|0
+p|work|4
+p|coauthors|1
+p|legal2|2
+p|quote|0
+p|chapterurl5|0
+p|issue|0
+p|volume2|0
+p|publisher4|0
+p|dateformat|12
+p|small|0
+p|isbn2|0
+p|first4|0
+p|chapter|0
+p|others2|0
+p|title4|0
+p|editor|0
+p|dateformat2|0
+p|issue4|0
+p|accessmonth3|0
+p|legal|73
+p|archiveurl|0
+p|date2|0
+p|pmc4|0
+p|chapter4|0
+p|id|0
+p|last4|0
+p|cite5|0
+p|editor-last3|0
+p|coeditors|0
+p|others5|0
+p|volume4|0
+p|accessyear4|0
+p|pages4|0
+p|authors|0
+p|language|19
+p|cite|75
+p|authorlink2|0
+p|date|26
+p|doi4|0
+p|coauthors2|0
+p|curly4|0
+p|issn2|0
+p|author2|0
+p|pmid3|0
+p|note|15
+p|url2|2
+p|authors4|0
+p|journal4|0
+p|archiveurl2|0
+p|chapterurl4|0
+p|publisher|29
+p|isbn|3
+p|editorlink3|0
+p|archivedate3|0
+p|editor-link|0
+p|editorlink4|0
+p|accessdaymonth5|0
+p|editorlink|0
+p|editor-link4|0
+p|journal2|0
+p|publisher3|2
+p|origdate5|0
+p|postscript|0
+p|first|4
+p|media|26
+p|edition2|0
+p|edition5|0
+p|last3|0
+p|format3|0
+p|work4|0
+p|format4|0
+p|note4|0
+p|accessdate4|0
+p|month5|0
+p|location2|0
+p|accessmonthday5|0
+p|page4|0
+p|month4|0
+p|curly3|0
+p|pmid2|0
+p|dateformat3|0
+p|year5|0
+p|id4|0
+p|accessdaymonth3|0
+p|accessyear3|0
+p|others3|0
+p|accessmonthday4|0
+p|editor-link5|0
+p|coeditors2|0
+p|archiveurl5|0
+p|pmc5|0
+p|accessdate2|1
+p|coauthors3|0
+p|title3|2
+p|legal5|0
+p|url3|2
+p|title|76
+p|location5|0
+p|issue3|0
+p|work2|0
+p|editor-last4|0
+p|chapterurl3|0
+p|accessdaymonth4|0
+p|org|1
+p|last2|0
+p|postscript2|0
+p|coeditors5|0
+p|editor-last|0
+p|authorlink3|0
+p|doi|0
+p|journal5|0
+p|editor3|0
+p|chapterurl|0
+p|accessmonth2|0
+p|editor-type2|0
+p|accessmonthday|0
+p|others4|0
+p|id3|0
+p|accessdate5|0
+p|edition4|0
+p|postscript5|0
+p|volume5|0
+p|page2|0
+p|first5|0
+p|origdate4|0
+p|work5|0
+p|archivedate4|0
+p|chapterurl2|0
+p|isbn5|0
+p|authors3|0
+p|editor-first2|0
+p|language2|1
+p|volume|0
+p|accessdate|7
+p|year4|0
+p|format5|0
+p|date3|1
+p|page5|0
+p|month3|0
+p|doi3|0
+p|issn|0
+p|cite2|2
+p|month|0
+p|note2|0
+p|note3|0
+p|editor-type5|0
+p|editor5|0
+
+template|Template:No permission since
+count|832
+properties|5
+p|del|0
+p|year|829
+p|category|0
+p|day|829
+p|month|829
+
+template|Template:Works of Charles Dickens volume
+count|5
+properties|7
+p|source|5
+p|location|5
+p|page|5
+p|year|5
+p|publisher|5
+p|title|5
+p|volume|5
+
+template|Template:Universally replaced
+count|3
+properties|5
+p|new image|0
+p|not_ok|2
+p|comment|3
+p|new_image|3
+p|user|3
 
 template|Template:Atlas-dependency
 count|62
@@ -6087,13 +11060,440 @@ p|extra|1
 p|religion|61
 p|the|16
 
+template|Template:ProvenanceEvent
+count|1422
+properties|23
+p|for|0
+p|in|0
+p|source|0
+p|price|0
+p|result|0
+p|as|3
+p|inline|0
+p|oldowner|534
+p|at|26
+p|1|0
+p|through|18
+p|date|136
+p|lotno|2
+p|by|0
+p|status|0
+p|comment|0
+p|place|28
+p|owner|0
+p|newowner|561
+p|atunknown|2
+p|time|623
+p|type|822
+p|memory|3
+
+template|Template:Inside Wikimedia Video
+count|32
+properties|2
+p|lang|31
+p|translators|31
+
+template|Template:Domesday Book scan
+count|49
+properties|5
+p|previous|19
+p|page|20
+p|pages|20
+p|county|20
+p|next|19
+
+template|Template:WLA
+count|26
+properties|5
+p|ref|3
+p|id|24
+p|category|0
+p|org|25
+p|com|11
+
+template|Template:Walters Art Museum artwork
+count|18409
+properties|28
+p|author|1465
+p|source|2
+p|inscriptions|7374
+p|place depicted|22
+p|location|0
+p|description|62
+p|parent object|37
+p|object type|8
+p|accession number|18405
+p|credit|18240
+p|place of origin|18375
+p|medium|11955
+p|references|22
+p|place of discovery|1
+p|id|18404
+p|date|4329
+p|artist|7700
+p|publisher|108
+p|dimensions|2874
+p|provenance|18403
+p|notes|0
+p|exhibition|5919
+p|title|18140
+p|manufacturer|29
+p|other_versions|485
+p|conservation|0
+p|period|12757
+p|scribe|953
+
+template|Template:Book
+count|75771
+properties|84
+p|illustrator|1
+p|Translator|9671
+p|printer|26
+p|Other_fields_3|0
+p|ID|0
+p|other fields 2|0
+p|Id|0
+p|subtitle|25
+p|author|99
+p|city|47
+p|Department|1
+p|Other versions|1454
+p|demo|0
+p|Other_fields|0
+p|Other fields|0
+p|series title|0
+p|source|344
+p|Other_versions|177
+p|Title|67412
+p|pageoverview|0
+p|Volume|40121
+p|other_fields_3|0
+p|permission|0
+p|other fields|0
+p|Other_fields_2|0
+p|LCCN|127
+p|image|0
+p|description|19
+p|Institution|193
+p|Illustrator|6162
+p|License|904
+p|institution|0
+p|accession number|0
+p|Editor|9753
+p|Other fields 2|0
+p|Description|1584
+p|other fields 1|0
+p|Homecat|673
+p|ISBN|5
+p|edition|2
+p|Permission|1821
+p|Edition|9667
+p|Printer|48501
+p|Other_fields_1|0
+p|Subtitle|28101
+p|gallery|0
+p|Series title|20242
+p|Accession number|4
+p|Pageoverview|816
+p|license|0
+p|other_fields_1|0
+p|department|1
+p|editor|3
+p|references|0
+p|Language|7562
+p|id|0
+p|Other fields 1|0
+p|References|0
+p|language|67
+p|date|647
+p|Source|65797
+p|publisher|50
+p|City|28481
+p|Author|70268
+p|Wikisource|12692
+p|Date|19517
+p|other fields 3|0
+p|other_fields|0
+p|Gallery|0
+p|BNF|2
+p|title|67
+p|other_versions|46
+p|translator|11
+p|Image|0
+p|Publisher|61129
+p|other versions|2
+p|other_fields_2|0
+p|Linkback|157
+p|Image page|3702
+p|Other fields 3|0
+p|OCLC|270
+p|volume|12
+p|wikisource|35
+p|image page|5
+
+template|Template:SVG-Map Australia by Slomox
+count|8
+properties|3
+p|en|8
+p|nds|8
+p|de|8
+
+template|Template:BArch-description
+count|2
+properties|7
+p|headline|1
+p|people|1
+p|biased|0
+p|1|0
+p|caption|1
+p|comment|0
+p|extra|1
+
+template|Template:Romanian spoken article
+count|6
+properties|10
+p|link_to_recorded_version|6
+p|accent|6
+p|user_name_link|6
+p|sex|6
+p|next_part|0
+p|date|6
+p|full_link|0
+p|title|6
+p|user_name|0
+p|first_part|0
+
+template|Template:SVG-Map Africa by Slomox
+count|56
+properties|3
+p|en|56
+p|nds|56
+p|de|56
+
+template|Template:Encyklopedia kościelna
+count|3938
+properties|3
+p|prev|3923
+p|next|3924
+p|vol|3930
+
 template|Template:Frescos of the Most Holy Trinity Church, Fulnek
 count|1
 properties|4
 p|level|1
-p|description|0
 p|number|1
+p|description|0
 p|picture|1
+
+template|Template:Disputed copyright
+count|6
+properties|3
+p|Additional|2
+p|langboxname|0
+p|Category|2
+
+template|Template:EBI License
+count|57768
+properties|3
+p|description|1
+p|pdb|57697
+p|pdbsum|0
+
+template|Template:Picture of week on the Luxembourgish Wikipedia
+count|3
+properties|3
+p|category|0
+p|týden|3
+p|rok|3
+
+template|Template:Scans from 'Bentley, Sketches of Engine and Machine Details', 1918
+count|12
+properties|9
+p|description|8
+p|page|7
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|title|8
+p|other_version|6
+p|figure|0
+p|volume|0
+
+template|Template:COAInformation/fr
+count|1791
+properties|55
+p|cre|0
+p|user1|406
+p|user9|0
+p|blasonnement-de|8
+p|figure9|0
+p|ref-en|140
+p|blasonnement-fr|1770
+p|noink|0
+p|ref-sv|0
+p|user5|6
+p|ref-als|0
+p|blasonde|36
+p|figure5|6
+p|sourceit|5
+p|user8|0
+p|blasonsv|4
+p|nofr|1
+p|figure3|54
+p|ref-de|4
+p|user4|20
+p|blasonit|124
+p|Permission|439
+p|figure8|0
+p|key|4
+p|blasonnement-sv|1
+p|dessinateur|809
+p|alias|1505
+p|catCOAof|993
+p|blasonen|1172
+p|Source|115
+p|user2|179
+p|figure4|20
+p|user7|1
+p|sourceen|15
+p|figure7|1
+p|blasonals|3
+p|Author|971
+p|blasonnement-als|0
+p|Date|615
+p|figure1|361
+p|sub|8
+p|err|8
+p|ref-it|4
+p|catSVGCOA|606
+p|user3|54
+p|user6|1
+p|sort|4
+p|other_versions|51
+p|ref-fr|1428
+p|blasonnement-it|50
+p|sourcefr|103
+p|figure6|1
+p|blasonnement-en|169
+p|blasonfr|1781
+p|figure2|176
+
+template|Template:Photograph
+count|9387
+properties|92
+p|credit line|522
+p|Other_fields_3|0
+p|ID|2
+p|other fields 2|0
+p|Id|0
+p|author|2177
+p|exhibition_history|0
+p|Department|0
+p|Other versions|14
+p|strict|0
+p|demo|0
+p|Other_fields|0
+p|Other fields|0
+p|source|3585
+p|inscriptions|115
+p|Other_versions|0
+p|photographer|5210
+p|exhibition history|5
+p|size|147
+p|Title|466
+p|object_history|0
+p|other_fields_3|0
+p|permission|1672
+p|other fields|0
+p|Other_fields_2|0
+p|description|1771
+p|Institution|7
+p|Dimensions|1
+p|institution|5670
+p|Original description|0
+p|Size|0
+p|accession number|5586
+p|Other fields 2|0
+p|Description|509
+p|object history|5
+p|other fields 1|0
+p|other_fields_4|0
+p|year|2
+p|Museum|0
+p|biased|0
+p|Exhibition history|0
+p|depicted place|2069
+p|Permission|2155
+p|medium|3164
+p|Other_fields_1|0
+p|Year|0
+p|gallery|9
+p|credit_line|0
+p|museum|0
+p|Accession number|39
+p|Medium|564
+p|other_fields_1|0
+p|department|456
+p|references|1029
+p|id|4
+p|Other fields 1|0
+p|References|5
+p|Exhibition_history|0
+p|date|4920
+p|Other fields 4|0
+p|Source|900
+p|depicted people|97
+p|Depicted place|2
+p|Credit_line|0
+p|Author|1262
+p|dimensions|2535
+p|Object_history|0
+p|Date|1413
+p|other fields 4|0
+p|other fields 3|0
+p|notes|4394
+p|technique|1
+p|other_fields|7
+p|Gallery|1
+p|Notes|478
+p|Camera coord|0
+p|title|2787
+p|lang|0
+p|other_versions|3415
+p|Inscriptions|0
+p|camera coord|0
+p|other versions|195
+p|Technique|0
+p|other_fields_2|0
+p|original description|9
+p|Depicted people|3
+p|Other fields 3|0
+p|Photographer|22
+p|Object history|0
+p|original description info|0
+p|Other_fields_4|0
+p|Credit line|4
+
+template|Template:Lange-Diercke Sachsen
+count|108
+properties|3
+p|Other_versions|19
+p|Note|0
+p|Description|0
+
+template|Template:Scans from 'Railway Magazine', 100, October 1905
+count|23
+properties|10
+p|author|0
+p|description|7
+p|page|7
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|title|6
+p|other_version|0
+p|figure|0
+p|volume|0
 
 template|Template:Atlas-country
 count|210
@@ -6123,22 +11523,265 @@ p|religion|208
 p|index|11
 p|the|18
 
+template|Template:Object photo
+count|9693
+properties|31
+p|Detail|844
+p|author|7615
+p|Other versions|0
+p|Other_fields|0
+p|Other fields|0
+p|source|259
+p|Other_versions|0
+p|photographer|13
+p|photo description|0
+p|permission|151
+p|other fields|0
+p|description|1071
+p|License|0
+p|Photo description|0
+p|Artwork|0
+p|Description|25
+p|Permission|22
+p|object|8065
+p|license|0
+p|Object|1622
+p|date|4911
+p|Source|36
+p|Author|1751
+p|Date|1742
+p|detail|2565
+p|other_fields|0
+p|detail position|1
+p|other_versions|100
+p|other versions|1
+p|Photographer|0
+p|artwork|1
+
+template|Template:Web source
+count|7
+properties|8
+p|author|0
+p|photographer|0
+p|site|2
+p|info|2
+p|home|2
+p|comment|0
+p|pic|2
+p|cat|0
+
+template|Template:ScottForesman-raw
+count|951
+properties|3
+p|date|762
+p|images|316
+p|category|0
+
+template|Template:The Chinese Repository volume
+count|19
+properties|8
+p|source|19
+p|page|19
+p|year|0
+p|vol|19
+p|startyear|19
+p|endyear|19
+p|endmonth|19
+p|startmonth|19
+
+template|Template:Der einsame Baum by Caspar David Friedrich
+count|7
+properties|2
+p|Permission |0
+p|Source|1
+
 template|Template:Title
 count|900
 properties|6
 p|transliteration|0
 p|1|0
-p|en|266
+p|en|274
 p|comment|0
-p|lang|2
-p|translation|0
+p|lang|4
+p|translation|1
+
+template|Template:Information photo from H.P. Hansen 1954
+count|39
+properties|5
+p|Description|0
+p|Source|37
+p|Author|10
+p|Date|5
+p|Photo number|39
+
+template|Template:GKM
+count|261
+properties|3
+p|LÄNGE|261
+p|BREITE|261
+p|ORTE|13
 
 template|Template:Multi-listen item
 count|14
 properties|3
-p|description|12
 p|filename|14
+p|description|12
 p|title|14
+
+template|Template:Insignia/layout
+count|62
+properties|2
+p|text|13
+p|lang|13
+
+template|Template:NLW collection
+count|4332
+properties|30
+p|author|4310
+p|in|4331
+p|source|4332
+p|inscriptions|0
+p|place depicted|0
+p|location|0
+p|subjects|4329
+p|permission|4332
+p|description|4332
+p|institution|0
+p|object type|0
+p|credit|0
+p|place of origin|0
+p|medium|0
+p|references|0
+p|place of discovery|0
+p|other authors|21
+p|date|3699
+p|artist|0
+p|publisher|48
+p|provenance|0
+p|record number|4332
+p|notes|4300
+p|exhibition|0
+p|title|4332
+p|imprint|4332
+p|other_versions|0
+p|conservation|0
+p|summary|1814
+p|period|0
+
+template|Template:BLW2010
+count|426
+properties|7
+p|author|426
+p|collectionid|369
+p|description|3
+p|license|422
+p|collectionurl|387
+p|title|425
+p|org|426
+
+template|Template:Transferred from WikiAppunti
+count|20
+properties|9
+p|author|19
+p|source|0
+p|history|19
+p|it|19
+p|prehistory|18
+p|license|0
+p|date|19
+p|en|19
+p|preprehistory|0
+
+template|Template:NASA info
+count|6
+properties|21
+p|mission|6
+p|name|6
+p|primary data set|6
+p|size|6
+p|spacecraft2|1
+p|spacecraft alt|6
+p|target alt|0
+p|jpg size|0
+p|mission2|1
+p|satellite of alt|0
+p|spacecraft|6
+p|text|5
+p|tiff size|6
+p|tif size|0
+p|satellite of|6
+p|mission alt|6
+p|produced by|6
+p|target|6
+p|title|6
+p|jpeg size|6
+p|instrument|6
+
+template|Template:Scans from 'Howden, Boys' Book of Locomotives', 1907
+count|106
+properties|13
+p|photo|0
+p|description|36
+p|page|14
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|facing-page|86
+p|date|0
+p|sub-title|17
+p|title|105
+p|other_version|12
+p|figure|16
+p|volume|0
+
+template|Template:Information field
+count|309
+properties|8
+p|name|127
+p|Name|0
+p|style|7
+p|Value|0
+p|1|0
+p|2|0
+p|class|0
+p|value|103
+
+template|Template:Denmark no consent
+count|39
+properties|2
+p|uploader|39
+p|author|39
+
+template|Template:Cyclopaedia, Chambers page
+count|1053
+properties|4
+p|prev|1046
+p|next|1047
+p|page|1047
+p|volume|1047
+
+template|Template:If
+count|10
+properties|2
+p|then|8
+p|test|8
+
+template|Template:NGA Raster Roam
+count|9
+properties|2
+p|latitude|9
+p|longitude|9
+
+template|Template:Blason
+count|17
+properties|7
+p|source|3
+p|porteur-fr|3
+p|date-fr|3
+p|blasonnement|3
+p|porteur-en|3
+p|date-en|3
+p|user|3
 
 template|Template:Positionskarte
 count|18
@@ -6161,6 +11804,126 @@ p|mark|11
 p|width|13
 p|lat|0
 
+template|Template:No source since/es
+count|1
+properties|3
+p|year|1
+p|month|1
+p|day|1
+
+template|Template:COAElementInformation
+count|577
+properties|30
+p|source|288
+p|noink|0
+p|notcharge|0
+p|sourceit|72
+p|meubleen|436
+p|sourceru|0
+p|meublees|35
+p|Permission|7
+p|key|1
+p|dessinateur|421
+p|meublede|169
+p|date|6
+p|Source|74
+p|sourcede|49
+p|sourceen|293
+p|Author|104
+p|noprojectfr|0
+p|Date|152
+p|category|2
+p|meubleru|1
+p|sub|5
+p|err|5
+p|meubleit|185
+p|sort|4
+p|other_versions|23
+p|sourcefr|24
+p|sourcees|0
+p|nocat|3
+p|val|0
+p|meublefr|562
+
+template|Template:Scans from 'Autocar Handbook', Thirteenth edition
+count|80
+properties|14
+p|photographer|0
+p|photo|0
+p|description|6
+p|page|28
+p|chapter-title|0
+p|other version|0
+p|ref_page|0
+p|chapter|0
+p|date|0
+p|original_caption|0
+p|title|9
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:AGAD record
+count|1
+properties|31
+p|credit line|0
+p|ID|1
+p|author|0
+p|printing|1
+p|source|0
+p|inscriptions|0
+p|location|1
+p|object_history|0
+p|permission|0
+p|description|0
+p|institution|1
+p|object type|1
+p|accession number|0
+p|object history|0
+p|place of origin|1
+p|medium|0
+p|creator|1
+p|credit_line|0
+p|references|0
+p|References|0
+p|language|1
+p|date|1
+p|Source|0
+p|artist|0
+p|dimensions|0
+p|notes|0
+p|title|0
+p|form|1
+p|other_versions|0
+p|Inscriptions|0
+p|other versions|0
+
+template|Template:Maria Konopnicka - Poezye (1880s)
+count|912
+properties|3
+p|prev|907
+p|next|908
+p|volume|908
+
+template|Template:GLAM building
+count|2185
+properties|5
+p|country|2104
+p|contest|2104
+p|1|0
+p|lang|0
+p|type|2052
+
+template|Template:Tatler - 1898-9 reprint
+count|4
+properties|6
+p|source|4
+p|page|4
+p|prev|3
+p|year|4
+p|next|3
+p|volume|4
+
 template|Template:BSO
 count|1
 properties|12
@@ -6176,6 +11939,86 @@ p|2|0
 p|7|0
 p|3|0
 p|VPX|1
+
+template|Template:Scans from 'Renault 190HP aircraft engine manual'
+count|20
+properties|5
+p|description|2
+p|page|0
+p|other version|0
+p|title|20
+p|figure|19
+
+template|Template:CH-BAR-picture
+count|5113
+properties|20
+p|ID|5113
+p|people|0
+p|demo|0
+p|source|5113
+p|inscriptions|0
+p|photographer|1401
+p|permission|5113
+p|wiki description|2
+p|biased|0
+p|depicted place|4049
+p|medium|0
+p|references|0
+p|archive title|0
+p|date|4816
+p|depicted people|199
+p|short title|5090
+p|notes|0
+p|original title|5076
+p|lang|0
+p|other versions|11
+
+template|Template:Ukrainian spoken article
+count|3
+properties|10
+p|link_to_recorded_version|3
+p|accent|3
+p|user_name_link|3
+p|sex|3
+p|next_part|1
+p|date|3
+p|full_link|0
+p|title|3
+p|user_name|0
+p|first_part|1
+
+template|Template:Broken file
+count|80
+properties|3
+p|filetype|71
+p|description|70
+p|1|0
+
+template|Template:Milim
+count|37570
+properties|13
+p|post|329
+p|author|37436
+p|source|37567
+p|location|37130
+p|permission|37550
+p|description|18443
+p|virin|37239
+p|dateposted|34829
+p|gallery|37220
+p|date|37198
+p|filename|329
+p|newsphotoid|329
+p|other_versions|3
+
+template|Template:Description article audio
+count|109
+properties|5
+p|utilisateur|109
+p|accent|45
+p|user_name_link|0
+p|date|109
+p|titre|109
 
 template|Template:Main Page Template-ka
 count|1
@@ -6208,6 +12051,221 @@ p|Sister projects|1
 p|Participating|1
 p|Images|1
 
+template|Template:Rolling Stock-Information
+count|36
+properties|14
+p|Set|18
+p|Company|34
+p|Belongs_to|0
+p|Description|12
+p|Permission|0
+p|Model|34
+p|Service|7
+p|Remarks|3
+p|Source|0
+p|Motive power|0
+p|Author|35
+p|Date|35
+p|other_versions|0
+p|Place|35
+
+template|Template:NYPL-image-full
+count|78248
+properties|25
+p|SourceDescription|78237
+p|Location|78242
+p|SpecificMaterialType|42215
+p|ImageTitle|78199
+p|CreatedDate|15641
+p|DigitalItemPublished|78242
+p|Coverage|77225
+p|Description|68
+p|AlternateTitle|37176
+p|AdditionalNames|0
+p|Medium|34998
+p|Creator|46665
+p|PublishedDate|3474
+p|Source|78243
+p|ItemPagePlate|28179
+p|SourceURL|69172
+p|dimensions|0
+p|Notes|12
+p|other_versions|26
+p|DigitalID|78244
+p|RecordID|78244
+p|CatalogCallNumber|78238
+p|DepictedDate|151
+p|ItemPhysicalDescription|140
+p|SourceImprint|55073
+
+template|Template:Canadian City Geographic Location (8-way)
+count|7
+properties|10
+p|South|0
+p|Northeast|0
+p|East|5
+p|Southeast|0
+p|Center|5
+p|Northwest|0
+p|Centre|0
+p|West|5
+p|Southwest|0
+p|North|0
+
+template|Template:South America location
+count|14
+properties|6
+p|Artikel|14
+p|Date|14
+p|State|14
+p|other_versions|0
+p|Pays|14
+p|Staat|14
+
+template|Template:SLNSW-license
+count|158
+properties|5
+p|2d|150
+p|License|0
+p|itemID|145
+p|license|0
+p|category|0
+
+template|Template:The Reform of the Consular Service
+count|9
+properties|3
+p|prev|8
+p|next|8
+p|curr|9
+
+template|Template:Blason-xx
+count|12
+properties|6
+p|source|9
+p|blazon|11
+p|project|8
+p|drawnby|9
+p|language|11
+p|blazonof|11
+
+template|Template:Utilisateur tabltrai olympus
+count|9
+properties|4
+p|date|9
+p|note|7
+p|lieu|9
+p|description|8
+
+template|Template:Tiedoston tiedot
+count|1045
+properties|4
+p|Tekijä|821
+p|Kuvaus|1032
+p|Lähde|1009
+p|Päiväys|1006
+
+template|Template:NOAA-dailywxmap
+count|21468
+properties|5
+p|permission|0
+p|description|152
+p|date|21468
+p|type|21468
+p|other_versions|0
+
+template|Template:Google Art Project
+count|19084
+properties|70
+p|collection display name|0
+p|Provenance:_Purchase_(Commissioned_work)|0
+p|Provenance_of_the_object (French)|0
+p|Location|4
+p|commons_inscriptions|23
+p|commons_notes|35
+p|object_work_type|19001
+p|museum_internal_id|19057
+p|Accession_Number|178
+p|Inscription|244
+p|commons_accession_number|159
+p|commons_zoom|1
+p|artist_nationality|13169
+p|Object_Title_(Japanese)|0
+p|canonical_artist_detail_url|16883
+p|commons_title|38
+p|commons_description|83
+p|Provenance_Public_Display|5
+p|commons_location|110
+p|level_display_name|1847
+p|Title_in_Swedish|58
+p|Original__title|0
+p|height|16867
+p|Object_Title_(French)|1
+p|Provenance_of_the_object|0
+p|commons_object_history|44
+p|artist_pretty_display_date|727
+p|level_detail_url|1848
+p|facet_medium|16026
+p|medium|334
+p|commons_medium|29
+p|commons_dimensions|7
+p|Signature|48
+p|special:url_id|19052
+p|Provenance|2074
+p|commons_date|76
+p|artist_display_name|19034
+p|artist_role|13255
+p|Medium|4093
+p|Object_title_(Japanese)|0
+p|Provenance(Japanese)|0
+p|room_detail_url|1829
+p|Signature_&_Date|188
+p|Inscription:_Marks|1
+p|Original_Title|56
+p|primary_asset_is_gigapixel|19057
+p|collection_display_name|19059
+p|Exhibitions|433
+p|commons_institution|258
+p|Exhibition|0
+p|Signatures,_Inscriptions,_and_Markings|0
+p|Original_German_Title|0
+p|commons_exhibition_history|6
+p|Object_Title|0
+p|room_display_name|1830
+p|object_link|14090
+p|title|19035
+p|Inscriptions|212
+p|commons_credit_line|152
+p|commons_artist|10277
+p|Inscribed|420
+p|commons_source|10
+p|Signed|242
+p|absolute_url|19059
+p|Inscription:_Signed_and_Dated|22
+p|width|16875
+p|commons_references|100
+p|commons_other_versions|199
+p|Exhibition_History|102
+p|pretty_display_date|17240
+
+template|Template:Ram-Man Camera 1
+count|9
+properties|2
+p|iso|3
+p|camera|8
+
+template|Template:The Works of Lord Byron (ed. Coleridge) volume
+count|13
+properties|9
+p|death|7
+p|source|13
+p|page|13
+p|prev|12
+p|editor|13
+p|date|13
+p|next|12
+p|volume|13
+p|volumedesc|13
+
 template|Template:Potd
 count|88
 properties|5
@@ -6216,6 +12274,82 @@ p|fallback_lang|6
 p|noeditlinks|0
 p|lang|51
 p|width|62
+
+template|Template:BdM im Portal Dänemark
+count|54
+properties|3
+p|month_en|48
+p|year|54
+p|month|54
+
+template|Template:Information miRO
+count|61
+properties|3
+p|date|60
+p|description|1
+p|author|60
+
+template|Template:Image message box
+count|4
+properties|9
+p|image middle right|1
+p|image middle left|1
+p|image|0
+p|align|0
+p|image bottom right|0
+p|image bottom left|0
+p|content|1
+p|image top left|0
+p|image top right|0
+
+template|Template:ColeccionFotograficaBCNChile
+count|146
+properties|2
+p|Materia|144
+p|fecha|109
+
+template|Template:RCE data ingestion layout
+count|12
+properties|39
+p|Content_subject_content.subject_3|0
+p|Production_date_production.date.start|12
+p|Description_description|12
+p|Monument_monument.complex_number_2|0
+p|shipwreck.notes|0
+p|collection|12
+p|Monument_monument.complex_number|0
+p|Monument_monument.house_number|0
+p|Production_creator_value_2|0
+p|Monument_monument.zipcode|0
+p|shipwreck.municipality|0
+p|Monument_monument.street|0
+p|shipwreck.province|0
+p|Content_subject_content.subject_2|1
+p|shipwreck.lref|0
+p|subst|0
+p|shipwreck.ship_type|0
+p|Production_creator.role|12
+p|Production_creator_value_3|0
+p|Production_creator_value|12
+p|shipwreck|0
+p|shipwreck.load|0
+p|shipwreck.excevation_year|0
+p|priref|12
+p|Content_subject_content.subject_5|0
+p|Monument_monument.number_2|0
+p|Content_subject_content.subject|10
+p|Production_creator.role_3|0
+p|Monument_monument.name|0
+p|shipwreck.ship_name|0
+p|notes|12
+p|Monument_monument.name_2|0
+p|shipwreck.toponym|0
+p|Monument_monument.province|0
+p|Production_creator.role_2|0
+p|Content_subject_content.subject_4|0
+p|shipwreck.place|0
+p|Monument_monument.number|0
+p|Monument_monument.place|12
 
 template|Template:Atlas-continent
 count|9
@@ -6231,120 +12365,379 @@ p|intro|9
 p|extra|0
 p|religion|8
 
+template|Template:CountOfHolland
+count|25
+properties|7
+p|beg|25
+p|name|25
+p|death|25
+p|birth|22
+p|page|22
+p|picture|12
+p|title|25
+
 template|Template:Box
 count|24
 properties|3
-p|content|4
+p|title|7
+p|content|6
 p|align|1
-p|title|4
+
+template|Template:Слика-инфо
+count|13
+properties|11
+p|Дозвола|1
+p|дозвола|0
+p|Извор|11
+p|Датум|11
+p|датум|0
+p|извор|0
+p|Автор|12
+p|Опис|11
+p|автор|0
+p|опис|0
+p|други_верзии|0
+
+template|Template:Hurricane auto track map
+count|2991
+properties|7
+p|author|59
+p|name|2974
+p|source|2948
+p|1|0
+p|date|4
+p|type|2125
+p|other_versions|0
+
+template|Template:Lisp
+count|1721
+properties|3
+p|note|1714
+p|type|1721
+p|lang|1721
+
+template|Template:Picture of the day on the Ossetian Wikipedia
+count|65
+properties|3
+p|date|64
+p|category|0
+p|dateos|64
 
 template|Template:Table
 count|5
 properties|104
 p|row65|0
-p|row24|0
+p|row24|1
 p|row94|0
-p|row17|0
-p|row35|0
+p|row17|1
+p|row35|1
 p|row87|0
 p|row90|0
 p|row80|0
 p|row76|0
-p|row9|1
+p|row9|3
 p|row57|0
 p|row84|0
 p|row46|0
-p|row5|1
+p|row5|3
 p|row73|0
-p|hdrs|1
-p|row13|1
-p|row28|0
+p|hdrs|3
+p|row13|2
+p|row28|1
 p|row62|0
-p|row39|0
-p|row2|1
+p|row39|1
+p|row2|3
 p|row72|0
 p|row51|0
 p|row68|0
-p|row25|0
+p|row25|1
 p|row61|0
-p|row32|0
+p|row32|1
 p|row79|0
-p|row14|1
-p|row21|0
+p|row14|2
+p|row21|1
 p|row95|0
-p|row36|0
-p|row10|1
+p|row36|1
+p|row10|3
 p|row91|0
 p|row58|0
 p|row47|0
 p|row98|0
-p|row6|1
-p|row19|0
+p|row6|3
+p|row19|1
 p|row54|0
-p|row40|0
+p|row40|1
 p|row83|0
 p|hdrsstyle|0
 p|row43|0
 p|row82|0
 p|row50|0
-p|row1|1
-p|row22|0
+p|row1|3
+p|row22|1
 p|row96|0
-p|row20|0
-p|row37|0
+p|row20|1
+p|row37|1
 p|row89|0
-p|row31|0
-p|row15|1
-p|row26|0
-p|row33|0
-p|row18|0
+p|row31|1
+p|row15|2
+p|row26|1
+p|row33|1
+p|row18|1
 p|row59|0
 p|row48|0
 p|row53|0
-p|row3|1
+p|row3|3
 p|row75|0
 p|row69|0
 p|row60|0
-p|row11|1
+p|row11|3
 p|row86|0
 p|row44|0
 p|valign|0
 p|row66|0
 p|row71|0
-p|row7|1
-p|row29|0
+p|row7|3
+p|row29|1
 p|row92|0
 p|row55|0
 p|row64|0
 p|row99|0
-p|row12|1
+p|row12|2
 p|row81|0
 p|row70|0
 p|row88|0
-p|row23|0
+p|row23|1
 p|row93|0
-p|row34|0
+p|row34|1
 p|row77|0
-p|row16|0
+p|row16|1
 p|title|1
-p|row41|0
+p|row41|1
 p|row97|0
-p|row30|0
-p|row4|1
-p|row42|0
+p|row30|1
+p|row4|3
+p|row42|1
 p|row67|0
 p|row45|0
 p|row100|0
 p|row52|0
 p|row63|0
 p|row78|0
-p|row8|1
+p|row8|3
 p|row56|0
 p|row85|0
 p|row74|0
 p|row49|0
-p|row27|0
-p|row38|0
+p|row27|1
+p|row38|1
+
+template|Template:Русский энциклопедический словарь Березина
+count|11197
+properties|3
+p|prev|10424
+p|next|10424
+p|volume|10469
+
+template|Template:Datasource
+count|2
+properties|18
+p|author|2
+p|demo|0
+p|Other_fields|0
+p|Other fields|0
+p|source|2
+p|Title|0
+p|other fields|0
+p|description|0
+p|Description|0
+p|Permission|0
+p|code|2
+p|license|0
+p|date|2
+p|Source|0
+p|Author|0
+p|Date|0
+p|other_fields|0
+p|title|2
+
+template|Template:Fossil
+count|16
+properties|67
+p|Original_description|10
+p|taxon_author5|0
+p|taxon_Author|0
+p|author|0
+p|Location|12
+p|Taxon_Author4|0
+p|Other versions|0
+p|source|0
+p|Taxon_author3|0
+p|Other_versions|1
+p|location|0
+p|collection|0
+p|taxon5|0
+p|taxon_Author2|0
+p|taxon_author|0
+p|permission|0
+p|original_description|0
+p|Taxon|14
+p|description|0
+p|Institution|15
+p|Collection|11
+p|institution|0
+p|Taxon_Author3|0
+p|Taxon_author2|0
+p|Catalog_number|14
+p|catalog number|0
+p|Original description|0
+p|taxon_Author5|0
+p|Stratigraphy|12
+p|Description|15
+p|Taxon_Author|0
+p|Taxon2|0
+p|Catalog number|0
+p|taxon_author2|0
+p|year|0
+p|Geological age|0
+p|Taxon5|0
+p|Permission|0
+p|Year|0
+p|taxon4|0
+p|taxon_author3|0
+p|stratigraphy|0
+p|taxon2|0
+p|date|0
+p|Taxon_Author2|0
+p|Source|10
+p|taxon_Author4|0
+p|taxon|0
+p|taxon3|0
+p|Taxon_author5|0
+p|Author|15
+p|Taxon4|0
+p|Date|10
+p|Taxon_author4|0
+p|lang|0
+p|catalog_number|0
+p|other_versions|0
+p|Geological_age|13
+p|other versions|0
+p|geological age|0
+p|original description|0
+p|taxon_Author3|0
+p|Taxon_Author5|0
+p|taxon_author4|0
+p|Taxon_author|9
+p|geological_age|0
+p|Taxon3|0
+
+template|Template:Zeri, Italian paintings in the Walters Art Gallery
+count|1
+properties|2
+p|number|1
+p|pages|1
+
+template|Template:RIAN-license
+count|1908
+properties|4
+p|number|1907
+p|category|0
+p|author|1904
+p|license|0
+
+template|Template:OTRS pending
+count|309
+properties|5
+p|del|0
+p|year|98
+p|category|0
+p|day|98
+p|month|98
+
+template|Template:Kulturmiljöbild-image
+count|461
+properties|15
+p|ID|461
+p|demo|0
+p|source|160
+p|inscriptions|0
+p|photographer|383
+p|permission|0
+p|wiki description|19
+p|depicted place|453
+p|medium|128
+p|date|272
+p|short title|461
+p|notes|35
+p|bildbeteckning|107
+p|other versions|1
+p|original description|448
+
+template|Template:Hurricane season auto track map
+count|487
+properties|9
+p|author|487
+p|source|487
+p|year|487
+p|end|75
+p|type|487
+p|other_versions|0
+p|start|72
+p|basin|487
+p|comments|1
+
+template|Template:Blason-fr-en
+count|4672
+properties|18
+p|source|3237
+p|blasonnement-fr|4600
+p|noink|1
+p|nofr|7
+p|dessinateur|4664
+p|alias|4334
+p|date|23
+p|catCOAof|3792
+p|blasonen|3214
+p|sourceen|2695
+p|category|0
+p|sub|3
+p|err|3
+p|catSVGCOA|1183
+p|blasonnement-en|1180
+p|dateen|6
+p|blasonfr|4644
+p|val|0
+
+template|Template:Image from the Florida Photographic Collection
+count|53
+properties|9
+p|author|1
+p|source|2
+p|description|0
+p|Description|33
+p|date|1
+p|Source|41
+p|Author|27
+p|Date|42
+p|other_versions|3
+
+template|Template:Information biolib
+count|3257
+properties|5
+p|species|3257
+p|source|1
+p|imageNo|3257
+p|family|3117
+p|cultivar|297
+
+template|Template:LOC-American-Memory-Collections
+count|61
+properties|5
+p|division_url|0
+p|division_name|0
+p|division|12
+p|1|0
+p|id|12
 
 template|Template:Main Frame/2
 count|4
@@ -6356,6 +12749,183 @@ p|id|2
 p|link|0
 p|content|0
 p|title|2
+
+template|Template:Check categories
+count|291536
+properties|76
+p|wiki18|8
+p|gallery6|94
+p|wiki13|237
+p|gallery1|70007
+p|lang2|16358
+p|article8|447
+p|lang9|384
+p|lang12|259
+p|lang14|217
+p|article9|384
+p|wiki2|16357
+p|article17|14
+p|wiki7|548
+p|lang18|8
+p|lang20|4
+p|article4|2106
+p|lang3|4677
+p|article18|8
+p|wiki19|4
+p|wiki4|2106
+p|article14|217
+p|wiki14|217
+p|lang8|447
+p|year|291291
+p|wiki3|4678
+p|lang15|203
+p|gallery3|4503
+p|lang5|1160
+p|ncats|148770
+p|wiki11|290
+p|article13|237
+p|lang19|4
+p|gallery7|23
+p|lang4|2105
+p|article3|4678
+p|article15|203
+p|article7|548
+p|article2|16358
+p|1|0
+p|lang7|548
+p|lang11|290
+p|lang16|192
+p|article11|290
+p|wiki16|192
+p|wiki8|447
+p|wiki15|204
+p|wiki9|384
+p|wiki10|323
+p|article12|259
+p|article10|323
+p|gallery4|1175
+p|article19|4
+p|wiki5|1160
+p|category|11640
+p|gallery8|5
+p|lang6|751
+p|lang17|14
+p|wiki12|259
+p|gallery2|16696
+p|gallery10|1
+p|wiki1|157778
+p|wiki17|14
+p|lang10|323
+p|article6|751
+p|article20|4
+p|article1|157765
+p|gallery9|4
+p|wiki6|751
+p|day|291287
+p|lang13|237
+p|article5|1160
+p|gallery5|308
+p|wiki20|4
+p|month|291288
+p|article16|192
+p|lang1|157784
+
+template|Template:Hurricane auto track map 1
+count|1097
+properties|7
+p|author|64
+p|name|1095
+p|source|1030
+p|1|0
+p|date|11
+p|type|967
+p|other_versions|0
+
+template|Template:Person in image
+count|50
+properties|3
+p|gallery|26
+p|name|47
+p|age|50
+
+template|Template:No license since
+count|905
+properties|5
+p|del|0
+p|year|903
+p|category|0
+p|day|903
+p|month|903
+
+template|Template:Thông tin
+count|304
+properties|6
+p|Nguồn|296
+p|Tác giả|296
+p|Miêu tả|163
+p|Giấy phép|0
+p|Phiên bản khác|6
+p|Ngày|96
+
+template|Template:Information Picswiss
+count|4458
+properties|7
+p|author|6
+p|source|1549
+p|description|19
+p|date|4430
+p|category|0
+p|other_versions|2
+p|migration|78
+
+template|Template:PDB Info
+count|1
+properties|11
+p|ec|1
+p|method|1
+p|released|1
+p|citation|1
+p|authors|1
+p|uniprot|1
+p|keywords|1
+p|header|1
+p|organism|1
+p|title|1
+p|experiment|1
+
+template|Template:ImageNote
+count|75625
+properties|15
+p|x|75623
+p|4|0
+p|style|75623
+p|y|75623
+p|5|0
+p|6|0
+p|1|0
+p|id|75622
+p|dimx|75621
+p|2|0
+p|dimy|75623
+p|h|75623
+p|7|0
+p|w|75623
+p|3|0
+
+template|Template:Flickr-self
+count|390
+properties|11
+p|photographer|389
+p|photographer_url|389
+p|permission|2
+p|description|34
+p|photographer_location|388
+p|Permission|0
+p|taken|389
+p|reviewer|0
+p|title|389
+p|self_made|0
+p|flickr_url|389
 
 template|Template:Left-box
 count|13
@@ -6378,12 +12948,163 @@ p|noeditlinks|0
 p|lang|53
 p|width|68
 
+template|Template:Scans from 'Stokers' Manual, 1912'
+count|12
+properties|8
+p|description|8
+p|page|0
+p|other version|0
+p|chapter|0
+p|title|8
+p|other_version|0
+p|figure|0
+p|volume|0
+
+template|Template:No OTRS permission since
+count|11
+properties|4
+p|category|0
+p|year|10
+p|month|10
+p|day|10
+
+template|Template:Wetland Flora
+count|2
+properties|2
+p|genus|1
+p|species|1
+
+template|Template:Click
+count|10
+properties|6
+p|desc|0
+p|image|0
+p|height|6
+p|link|6
+p|title|1
+p|width|6
+
+template|Template:PD-ROC-Traffic Markings
+count|9
+properties|2
+p|Article number|9
+p|條號|9
+
+template|Template:Книга
+count|2
+properties|22
+p|allpages|0
+p|ответственный|1
+p|часть|0
+p|страниц|1
+p|pages|0
+p|год|2
+p|страницы|0
+p|серия|0
+p|ref|1
+p|название|0
+p|издательство|1
+p|место|1
+p|том|0
+p|isbn|1
+p|город|0
+p|издание|1
+p|ссылка|1
+p|заглавие|2
+p|автор|1
+p|оригинал|0
+p|тираж|0
+p|volume|0
+
+template|Template:BArch-image
+count|82295
+properties|21
+p|ID|82286
+p|inventory|82253
+p|people|3
+p|demo|0
+p|source|6
+p|inscriptions|3
+p|photographer|63748
+p|permission|0
+p|wiki description|1274
+p|biased|170
+p|depicted place|69735
+p|medium|0
+p|references|53
+p|archive title|22277
+p|date|79280
+p|depicted people|13628
+p|short title|52993
+p|notes|2
+p|original title|73057
+p|lang|0
+p|other versions|912
+
+template|Template:ChangesInUniformsRussianImperialArmy
+count|38
+properties|3
+p|Ill|36
+p|Description|0
+p|Author|27
+
+template|Template:UmeåStadsarkiv-image
+count|48
+properties|15
+p|demo|0
+p|source|0
+p|inscriptions|7
+p|photographer|14
+p|permission|0
+p|description|0
+p|accession number|11
+p|depicted place|42
+p|department|24
+p|date|22
+p|depicted people|16
+p|dimensions|1
+p|notes|30
+p|title|32
+p|other versions|0
+
+template|Template:Hieronymus Bosch, The Complete Paintings and Drawings
+count|2
+properties|3
+p|p|1
+p|1|0
+p|as|1
+
+template|Template:Jeroen Bosch, Noord-Nederlandsche primitieven
+count|3
+properties|5
+p|as|0
+p|1|0
+p|p|1
+p|ill|1
+p|cat|1
+
 template|Template:Atlas-intro
 count|22
 properties|3
 p|text|14
 p|Title|13
 p|text2|0
+
+template|Template:Diti information
+count|29
+properties|7
+p|Location|0
+p|Description|7
+p|Permission|1
+p|Source|9
+p|Author|4
+p|Date|29
+p|other_versions|5
+
+template|Template:De geograaf (Vermeer)
+count|6
+properties|1
+p|Source|1
 
 template|Template:Main Page Template
 count|24
@@ -6415,5 +13136,27 @@ p|Previous Pictures of the day|24
 p|langcode|24
 p|Participating|23
 p|Images|24
+
+template|Template:Css image crop
+count|2
+properties|10
+p|Location|1
+p|Description|1
+p|cHeight|1
+p|bSize|1
+p|Page|0
+p|cWidth|1
+p|Rotate|0
+p|oTop|1
+p|Image|0
+p|oLeft|1
+
+template|Template:Friedländer
+count|8
+properties|4
+p|cat|2
+p|vol|2
+p|p|2
+p|as|2
 
 

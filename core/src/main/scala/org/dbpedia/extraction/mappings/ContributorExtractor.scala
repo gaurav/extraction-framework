@@ -25,7 +25,9 @@ class ContributorExtractor( context : {
 
   override def extract(node : WikiPage, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
   {
-    if(node.title.namespace != Namespace.Main) return Seq.empty
+    // Contributors are only useful for pages in Main and File namespaces.
+    if(node.title.namespace != Namespace.Main && node.title.namespace != Namespace.File)
+      return Seq.empty
 
     if(node.contributorID <= 0) return Seq.empty
 
