@@ -17,7 +17,6 @@ class FileTypeExtractor(context: {
     def language : Language
 }) extends WikiPageExtractor
 {
-    private val logger = Logger.getLogger(classOf[FileTypeExtractor].getName)
     private val fileExtensionProperty = context.ontology.properties("fileExtension")
     
     override val datasets = Set(DBpediaDatasets.FileInformation)
@@ -29,25 +28,36 @@ class FileTypeExtractor(context: {
             return Seq.empty
 
         // Add a quad for the file type as guessed from the extension.
-        val extensionRegex = new scala.util.matching.Regex("""\.(\w+)$""", "extension")
-        val extensionMatch = extensionRegex.findAllIn(page.title.decoded)
+        val file_type_quads = FileTypeExtractor.getExtension(page.title.decodedWithNamespace) match {
+                case Some(ext) => Seq(
+                    new Quad(Language.English, DBpediaDatasets.FileInformation,
+                        subjectUri,
+                        fileExtensionProperty,
+                        ext,
+                        page.sourceUri,
+                        context.ontology.datatypes("xsd:string")
+                    ))
+                case None => Seq.empty
+            }
 
-        val file_type_quads = if(extensionMatch.isEmpty) Seq.empty else {
+        return Seq(file_type_quads).flatten
+    }
+}
+
+object FileTypeExtractor {
+    private val logger = Logger.getLogger(classOf[FileTypeExtractor].getName)
+    
+    def getExtension(title: String): Option[String] = {
+        val extensionRegex = new scala.util.matching.Regex("""\.(\w+)$""", "extension")
+        val extensionMatch = extensionRegex.findAllIn(title)
+
+        if(extensionMatch.isEmpty) None else  {
             val extension = extensionMatch.group("extension").toLowerCase
 
             if(extension.length > 4)
-                logger.warning("Page '" + page.title.decodedWithNamespace + "' has an unusually long extension '" + extension + "'")
+                logger.warning("Page '" + title + "' has an unusually long extension '" + extension + "'")
 
-            Seq(new Quad(Language.English, DBpediaDatasets.FileInformation,
-                subjectUri,
-                fileExtensionProperty,
-                extension,
-                page.sourceUri,
-                context.ontology.datatypes("xsd:string")
-            ))
+            Some(extension)
         }
-
-
-        return Seq(file_type_quads).flatten
     }
 }
