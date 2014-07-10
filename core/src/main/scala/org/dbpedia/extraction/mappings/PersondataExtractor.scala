@@ -6,7 +6,7 @@ import org.dbpedia.extraction.wikiparser._
 import org.dbpedia.extraction.dataparser.{ObjectParser, DateTimeParser, StringParser}
 import org.dbpedia.extraction.config.mappings.PersondataExtractorConfig
 import org.dbpedia.extraction.ontology.Ontology
-import org.dbpedia.extraction.util.Language
+import org.dbpedia.extraction.util.{Language, ExtractorUtils}
 import scala.collection.mutable.ArrayBuffer
 import scala.language.reflectiveCalls
 
@@ -53,11 +53,20 @@ extends PageNodeExtractor
     private val foafPersonClass = context.ontology.classes("foaf:Person")
     private val dcDescriptionProperty = context.ontology.properties("dc:description")
 
+    private val commonsLanguage = Language.Commons
+    private val commonsCreatorNamespace = Namespace.get(Language.Commons, "Creator").get
+
     override val datasets = Set(DBpediaDatasets.Persondata)
 
     override def extract(node : PageNode, subjectUri : String, pageContext : PageContext) : Seq[Quad] =
     {
-        if(node.title.namespace != Namespace.Main) return Seq.empty
+        if(node.title.namespace != Namespace.Main && !(
+            // The Commons can have person information, but ONLY in the
+            // Creator namespace.
+            context.language == commonsLanguage && 
+            node.title.namespace == commonsCreatorNamespace
+        ))
+            return Seq.empty
 
         val objectParser = new ObjectParser(context)
 
